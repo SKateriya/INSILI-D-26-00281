@@ -2,7 +2,7 @@
 
 ## Integrative Transcriptomic Analysis Reveals Molecular Signatures and Candidate Therapeutic Targets in Primary Ciliary Dyskinesia
 
-**Manuscript:** INSILI-D-26-00281 (In Silico Pharmacology)
+**Manuscript:** INSILI-D-26-00281 (In Silico Research in Biomedicine)
 
 **Authors:** Jitender, Md Wamique Hossain, Shilpa Mohanty, Suneel Kateriya
 
