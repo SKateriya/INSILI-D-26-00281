@@ -169,14 +169,14 @@ See `results/expected_outputs.md` for a complete table of expected numerical out
 | Dataset    | Source     | Description                              |
 |------------|-----------|------------------------------------------|
 | GSE25186   | NCBI GEO  | 6 PCD + 9 control nasal epithelial brushings (Geremek et al. 2014) |
-| GSE272189  | NCBI GEO  | 71,396 cells, 13 donors, DNAH5-mutant PCD scRNA-seq (Horani et al. 2024) |
+| GSE272189  | NCBI GEO  | 71,396 cells, 13 donors, DNAH5-mutant PCD scRNA-seq (Koenitzer et al. 2024) |
 | AF-Q71F56  | AlphaFold | MED13L predicted structure (model v6)     |
 
 ## Citation
 
 If you use this code, please cite:
 
-> Jitender, Hossain MW, Mohanty S, Kateriya S. Integrative Transcriptomic Analysis Reveals Molecular Signatures and Candidate Therapeutic Targets in Primary Ciliary Dyskinesia. *In Silico Pharmacology*. 2026. (INSILI-D-26-00281)
+> Jitender, Hossain MW, Mohanty S, Kateriya S. Integrative Transcriptomic Analysis Reveals Molecular Signatures and Candidate Therapeutic Targets in Primary Ciliary Dyskinesia. *In Silico Research in Biomedicine*. 2026. (INSILI-D-26-00281)
 
 ## License
 
