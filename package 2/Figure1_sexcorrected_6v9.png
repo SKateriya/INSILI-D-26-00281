@@ -1,0 +1,7318 @@
+[
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Triacetylresveratrol Up",
+    "rank": 54,
+    "p_value": 0.23260596135992245,
+    "z_score": 1.54404309252218,
+    "combined_score": 2.2518469755668655,
+    "overlap_genes": [
+      "MGAM",
+      "HHEX",
+      "CPB1",
+      "TDO2",
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone Down",
+    "rank": 304,
+    "p_value": 0.4196938319240552,
+    "z_score": 1.220260455797646,
+    "combined_score": 1.0594664977610386,
+    "overlap_genes": [
+      "HHEX",
+      "RAP2B",
+      "RGS3",
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Aceclofenac Down",
+    "rank": 736,
+    "p_value": 0.6377478840057383,
+    "z_score": 0.9155719094965944,
+    "combined_score": 0.4118354513738752,
+    "overlap_genes": [
+      "PDE3B",
+      "NLRP2",
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Bromfenac Down",
+    "rank": 892,
+    "p_value": 0.6404882471199821,
+    "z_score": 0.9117417745205052,
+    "combined_score": 0.4062033049265378,
+    "overlap_genes": [
+      "COL2A1",
+      "COL11A1",
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Budesonide Down",
+    "rank": 1041,
+    "p_value": 0.6432141018583796,
+    "z_score": 0.9079431632890752,
+    "combined_score": 0.4006550134691224,
+    "overlap_genes": [
+      "COL2A1",
+      "TDO2",
+      "FOXG1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alitretinoin Up",
+    "rank": 1450,
+    "p_value": 0.6513044679629248,
+    "z_score": 0.8967326277036355,
+    "combined_score": 0.38449927051298366,
+    "overlap_genes": [
+      "HHEX",
+      "CPB1",
+      "NLRP2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Tretinoin Down",
+    "rank": 1768,
+    "p_value": 0.8379242958323803,
+    "z_score": 0.6106516290726817,
+    "combined_score": 0.1079800141806382,
+    "overlap_genes": [
+      "LCE2B",
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Temsirolimus Down",
+    "rank": 1791,
+    "p_value": 0.8379242958323803,
+    "z_score": 0.6106516290726817,
+    "combined_score": 0.1079800141806382,
+    "overlap_genes": [
+      "NLRP2",
+      "TRIM36"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Metformin Down",
+    "rank": 1934,
+    "p_value": 0.8396083692900207,
+    "z_score": 0.6080866065578885,
+    "combined_score": 0.1063055320564866,
+    "overlap_genes": [
+      "CPB1",
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Bromfenac Up",
+    "rank": 2121,
+    "p_value": 0.841276634286267,
+    "z_score": 0.6055427825762754,
+    "combined_score": 0.10465882826784104,
+    "overlap_genes": [
+      "UMOD",
+      "NDP"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Azithromycin Up",
+    "rank": 2393,
+    "p_value": 0.8429292102409488,
+    "z_score": 0.6030198954175562,
+    "combined_score": 0.10303939534399055,
+    "overlap_genes": [
+      "COL2A1",
+      "RGS16"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Nepafenac Up",
+    "rank": 2472,
+    "p_value": 0.8429292102409488,
+    "z_score": 0.6030198954175562,
+    "combined_score": 0.10303939534399055,
+    "overlap_genes": [
+      "CPB1",
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Felbinac Down",
+    "rank": 2607,
+    "p_value": 0.8429292102409488,
+    "z_score": 0.6030198954175562,
+    "combined_score": 0.10303939534399055,
+    "overlap_genes": [
+      "MGAM",
+      "NLRP2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Nepafenac Down",
+    "rank": 2651,
+    "p_value": 0.8429292102409488,
+    "z_score": 0.6030198954175562,
+    "combined_score": 0.10303939534399055,
+    "overlap_genes": [
+      "COL2A1",
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Curcumin Up",
+    "rank": 2755,
+    "p_value": 0.8445662158065116,
+    "z_score": 0.6005176876617774,
+    "combined_score": 0.10144673659011524,
+    "overlap_genes": [
+      "TDO2",
+      "INHBE"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Quercetin Down",
+    "rank": 2922,
+    "p_value": 0.8445662158065116,
+    "z_score": 0.6005176876617774,
+    "combined_score": 0.10144673659011524,
+    "overlap_genes": [
+      "MGAM",
+      "HHEX"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alclofenac Down",
+    "rank": 3074,
+    "p_value": 0.8445662158065116,
+    "z_score": 0.6005176876617774,
+    "combined_score": 0.10144673659011524,
+    "overlap_genes": [
+      "COL11A1",
+      "NLRP2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen-Piconol Down",
+    "rank": 3524,
+    "p_value": 0.8461877698225001,
+    "z_score": 0.59803590609176,
+    "combined_score": 0.0998803651471143,
+    "overlap_genes": [
+      "FBXW12",
+      "MAST2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Felbinac Up",
+    "rank": 3655,
+    "p_value": 0.8477939902924,
+    "z_score": 0.5955743016076778,
+    "combined_score": 0.09833980447266226,
+    "overlap_genes": [
+      "GEM",
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isotretinoin Up",
+    "rank": 3932,
+    "p_value": 0.8493849952089071,
+    "z_score": 0.5931326291437095,
+    "combined_score": 0.09682458751241214,
+    "overlap_genes": [
+      "FBXW12",
+      "NLRP2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Resveratrol Down",
+    "rank": 4204,
+    "p_value": 0.9609797346877296,
+    "z_score": 0.3067698989708243,
+    "combined_score": 0.01221004262471079,
+    "overlap_genes": [
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Calcitriol Down",
+    "rank": 4488,
+    "p_value": 0.9625458756532257,
+    "z_score": 0.3029045643153527,
+    "combined_score": 0.01156294281576122,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Sirolimus Down",
+    "rank": 4707,
+    "p_value": 0.9630538775981234,
+    "z_score": 0.30163741603986755,
+    "combined_score": 0.01135541836125037,
+    "overlap_genes": [
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ercalcitriol Up",
+    "rank": 5012,
+    "p_value": 0.9635550142063891,
+    "z_score": 0.3003806969682958,
+    "combined_score": 0.011151841978419237,
+    "overlap_genes": [
+      "NDP"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Thiotepa Down",
+    "rank": 5113,
+    "p_value": 0.9635550142063891,
+    "z_score": 0.3003806969682958,
+    "combined_score": 0.011151841978419237,
+    "overlap_genes": [
+      "RGS16"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ercalcitriol Down",
+    "rank": 5224,
+    "p_value": 0.9635550142063891,
+    "z_score": 0.3003806969682958,
+    "combined_score": 0.011151841978419237,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isoquercetin Down",
+    "rank": 5661,
+    "p_value": 0.9640493780581697,
+    "z_score": 0.2991342788727206,
+    "combined_score": 0.010952132646402058,
+    "overlap_genes": [
+      "MAST2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isotretinoin Down",
+    "rank": 5679,
+    "p_value": 0.9640493780581697,
+    "z_score": 0.2991342788727206,
+    "combined_score": 0.010952132646402058,
+    "overlap_genes": [
+      "INHBE"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone-Acetate Down",
+    "rank": 6253,
+    "p_value": 0.9645370600913407,
+    "z_score": 0.2978980356187419,
+    "combined_score": 0.010756211291043474,
+    "overlap_genes": [
+      "FBXW12"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen Down",
+    "rank": 6272,
+    "p_value": 0.9645370600913407,
+    "z_score": 0.2978980356187419,
+    "combined_score": 0.010756211291043474,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Calcitriol Up",
+    "rank": 6506,
+    "p_value": 0.9650181505749079,
+    "z_score": 0.2966718431229256,
+    "combined_score": 0.01056400044228682,
+    "overlap_genes": [
+      "GEM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Thiotepa Up",
+    "rank": 6583,
+    "p_value": 0.9650181505749079,
+    "z_score": 0.2966718431229256,
+    "combined_score": 0.01056400044228682,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen Up",
+    "rank": 6604,
+    "p_value": 0.9650181505749079,
+    "z_score": 0.2966718431229256,
+    "combined_score": 0.01056400044228682,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isoquercetin Up",
+    "rank": 6663,
+    "p_value": 0.9650181505749079,
+    "z_score": 0.2966718431229256,
+    "combined_score": 0.01056400044228682,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone Up",
+    "rank": 7225,
+    "p_value": 0.9654927380425916,
+    "z_score": 0.295455579311286,
+    "combined_score": 0.010375424525170672,
+    "overlap_genes": [
+      "MGAM"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen-Piconol Up",
+    "rank": 7391,
+    "p_value": 0.9654927380425916,
+    "z_score": 0.295455579311286,
+    "combined_score": 0.010375424525170672,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Tretinoin Up",
+    "rank": 7696,
+    "p_value": 0.965960910298623,
+    "z_score": 0.2942491240787725,
+    "combined_score": 0.010190409511570808,
+    "overlap_genes": [
+      "TDO2"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Metformin Up",
+    "rank": 7699,
+    "p_value": 0.965960910298623,
+    "z_score": 0.2942491240787725,
+    "combined_score": 0.010190409511570808,
+    "overlap_genes": [
+      "FBXW12"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Aceclofenac Up",
+    "rank": 8015,
+    "p_value": 0.9664227535032465,
+    "z_score": 0.293052359249733,
+    "combined_score": 0.01000888316369885,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9664227535032465
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen-Piconol Up",
+    "rank": 30,
+    "p_value": 0.004342082230289618,
+    "z_score": 3.0232450023245003,
+    "combined_score": 16.44464270323431,
+    "overlap_genes": [
+      "GSTM3",
+      "RSAD2",
+      "SNX10",
+      "SLC39A8",
+      "STEAP1",
+      "DDX60",
+      "IL2RG",
+      "RASGRP1",
+      "SLC17A3"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone Down",
+    "rank": 225,
+    "p_value": 0.0367836066856238,
+    "z_score": 2.332217573221757,
+    "combined_score": 7.702621984030398,
+    "overlap_genes": [
+      "PTPRD",
+      "GSTM3",
+      "ZEB2",
+      "AKR1B10",
+      "CADM1",
+      "NR1D2",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Calcitriol Down",
+    "rank": 378,
+    "p_value": 0.08643019807577314,
+    "z_score": 2.0165357585779247,
+    "combined_score": 4.937322750362066,
+    "overlap_genes": [
+      "GSTM3",
+      "RSAD2",
+      "CADM1",
+      "SNRPE",
+      "KLK8",
+      "CCR2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Temsirolimus Down",
+    "rank": 383,
+    "p_value": 0.08643019807577314,
+    "z_score": 2.0165357585779247,
+    "combined_score": 4.937322750362066,
+    "overlap_genes": [
+      "FASTKD3",
+      "NAMPT",
+      "TIMM17A",
+      "POLR3G",
+      "SLC39A8",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone-Acetate Down",
+    "rank": 629,
+    "p_value": 0.09172550967237604,
+    "z_score": 1.982520325203252,
+    "combined_score": 4.736151352286708,
+    "overlap_genes": [
+      "PTPRD",
+      "GSTM3",
+      "PDLIM3",
+      "AKR1B10",
+      "CADM1",
+      "NR1D2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Diclofenac Down",
+    "rank": 728,
+    "p_value": 0.09307632458486202,
+    "z_score": 1.9741928954559256,
+    "combined_score": 4.687396133295212,
+    "overlap_genes": [
+      "CXCL13",
+      "IL2RG",
+      "RASGRP1",
+      "SMPDL3A",
+      "SLC17A3",
+      "CCR2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Tretinoin Up",
+    "rank": 816,
+    "p_value": 0.09581014177082069,
+    "z_score": 1.9577436515105893,
+    "combined_score": 4.591665991982476,
+    "overlap_genes": [
+      "AKR1B10",
+      "PRKAR2B",
+      "HOXA1",
+      "DEFB1",
+      "STEAP1",
+      "CCR2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ercalcitriol Down",
+    "rank": 1139,
+    "p_value": 0.19537494342497022,
+    "z_score": 1.65238087171582,
+    "combined_score": 2.698064956833708,
+    "overlap_genes": [
+      "GSTM3",
+      "PDLIM3",
+      "RSAD2",
+      "ERG",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Budesonide Down",
+    "rank": 1426,
+    "p_value": 0.19975800737087618,
+    "z_score": 1.6385001763905456,
+    "combined_score": 2.6390480285997744,
+    "overlap_genes": [
+      "SEMA5A",
+      "GSTM3",
+      "SERPINB4",
+      "CDH11",
+      "NR1D2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Calcitriol Up",
+    "rank": 1487,
+    "p_value": 0.20196217468588173,
+    "z_score": 1.6316458660956268,
+    "combined_score": 2.610102861231895,
+    "overlap_genes": [
+      "SERPINB3",
+      "SEMA5A",
+      "AKR1B10",
+      "MYL1",
+      "NAMPT"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen Up",
+    "rank": 1514,
+    "p_value": 0.20196217468588173,
+    "z_score": 1.6316458660956268,
+    "combined_score": 2.610102861231895,
+    "overlap_genes": [
+      "SEMA5A",
+      "ZEB2",
+      "PRKAR2B",
+      "TNFSF13",
+      "DEFB1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Curcumin Down",
+    "rank": 1606,
+    "p_value": 0.20196217468588173,
+    "z_score": 1.6316458660956268,
+    "combined_score": 2.610102861231895,
+    "overlap_genes": [
+      "BCL11B",
+      "ACSL1",
+      "PRKAR2B",
+      "RASGRP1",
+      "AFF1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen-Piconol Down",
+    "rank": 1645,
+    "p_value": 0.20196217468588173,
+    "z_score": 1.6316458660956268,
+    "combined_score": 2.610102861231895,
+    "overlap_genes": [
+      "PTPRD",
+      "ZEB2",
+      "AKR1B10",
+      "CXCL13",
+      "AFF1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Sirolimus Down",
+    "rank": 2170,
+    "p_value": 0.36676029763179013,
+    "z_score": 1.3165744364961534,
+    "combined_score": 1.3205857547983415,
+    "overlap_genes": [
+      "FASTKD3",
+      "TIMM17A",
+      "POLR3G",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ercalcitriol Up",
+    "rank": 2301,
+    "p_value": 0.3696167195986359,
+    "z_score": 1.311021505376344,
+    "combined_score": 1.3048448939906638,
+    "overlap_genes": [
+      "SERPINB3",
+      "AKR1B10",
+      "TNFSF13",
+      "SLC39A8"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Nepafenac Down",
+    "rank": 2640,
+    "p_value": 0.372472395248158,
+    "z_score": 1.305514656672467,
+    "combined_score": 1.2893162885584413,
+    "overlap_genes": [
+      "NR1D2",
+      "SLC39A8",
+      "SMPDL3A",
+      "SLC17A3"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Budesonide Up",
+    "rank": 3029,
+    "p_value": 0.37818092219160576,
+    "z_score": 1.2946369308376477,
+    "combined_score": 1.2588823830897446,
+    "overlap_genes": [
+      "ACSL1",
+      "DEFB1",
+      "SLC39A8",
+      "AFF1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Azithromycin Down",
+    "rank": 3199,
+    "p_value": 0.37818092219160576,
+    "z_score": 1.2946369308376477,
+    "combined_score": 1.2588823830897446,
+    "overlap_genes": [
+      "SERPINB3",
+      "ZEB2",
+      "DEFB1",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone Up",
+    "rank": 3341,
+    "p_value": 0.38103348402883813,
+    "z_score": 1.2892649391856161,
+    "combined_score": 1.2439705131588923,
+    "overlap_genes": [
+      "ACSL1",
+      "NAMPT",
+      "CXCL13",
+      "AFF1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Resveratrol Down",
+    "rank": 3773,
+    "p_value": 0.5821384620490537,
+    "z_score": 0.9961200735143966,
+    "combined_score": 0.538947729845402,
+    "overlap_genes": [
+      "USP25",
+      "NAMPT",
+      "MED13L"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alclofenac Up",
+    "rank": 4294,
+    "p_value": 0.5961900633016581,
+    "z_score": 0.9752037194420837,
+    "combined_score": 0.5043712333145429,
+    "overlap_genes": [
+      "PTPRD",
+      "PRKAR2B",
+      "DEFB1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Felbinac Down",
+    "rank": 4708,
+    "p_value": 0.5989634209078484,
+    "z_score": 0.971124166085831,
+    "combined_score": 0.49775430383996266,
+    "overlap_genes": [
+      "PTPRD",
+      "STEAP1",
+      "IL2RG"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alclofenac Down",
+    "rank": 5170,
+    "p_value": 0.6017243603082503,
+    "z_score": 0.9670781893004116,
+    "combined_score": 0.4912329866924931,
+    "overlap_genes": [
+      "CADM1",
+      "ACSL1",
+      "SNX10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Triacetylresveratrol Down",
+    "rank": 5189,
+    "p_value": 0.6017243603082503,
+    "z_score": 0.9670781893004116,
+    "combined_score": 0.4912329866924931,
+    "overlap_genes": [
+      "SERPINB3",
+      "SERPINB4",
+      "NAMPT"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Thiotepa Up",
+    "rank": 5253,
+    "p_value": 0.6044728433697111,
+    "z_score": 0.9630653762591349,
+    "combined_score": 0.48480569860893163,
+    "overlap_genes": [
+      "PRKAR2B",
+      "DEFB1",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isoquercetin Up",
+    "rank": 5291,
+    "p_value": 0.6044728433697111,
+    "z_score": 0.9630653762591349,
+    "combined_score": 0.48480569860893163,
+    "overlap_genes": [
+      "HLA-C",
+      "PFDN4",
+      "SSX2IP"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Resveratrol Up",
+    "rank": 5672,
+    "p_value": 0.6072088335649839,
+    "z_score": 0.959085320875338,
+    "combined_score": 0.4784708873626711,
+    "overlap_genes": [
+      "PDLIM3",
+      "LSM6",
+      "PRKAR2B"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Dexamethasone-Acetate Up",
+    "rank": 6019,
+    "p_value": 0.6099322964401908,
+    "z_score": 0.9551376236653932,
+    "combined_score": 0.4722270302803351,
+    "overlap_genes": [
+      "ACSL1",
+      "NAMPT",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Diclofenac Up",
+    "rank": 6020,
+    "p_value": 0.6099322964401908,
+    "z_score": 0.9551376236653932,
+    "combined_score": 0.4722270302803351,
+    "overlap_genes": [
+      "BACE1",
+      "GSTM3",
+      "AKR1B10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alitretinoin Up",
+    "rank": 6035,
+    "p_value": 0.6099322964401908,
+    "z_score": 0.9551376236653932,
+    "combined_score": 0.4722270302803351,
+    "overlap_genes": [
+      "AKR1B10",
+      "RSAD2",
+      "HOXA1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Aceclofenac Up",
+    "rank": 6185,
+    "p_value": 0.612643199051376,
+    "z_score": 0.9512218916150431,
+    "combined_score": 0.4660726344176377,
+    "overlap_genes": [
+      "LSM6",
+      "NR1D2",
+      "SNX10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Metformin Down",
+    "rank": 6595,
+    "p_value": 0.8135556076699596,
+    "z_score": 0.6475352697095436,
+    "combined_score": 0.13361307416802026,
+    "overlap_genes": [
+      "SNX10",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Thiotepa Down",
+    "rank": 6893,
+    "p_value": 0.8153520139668166,
+    "z_score": 0.6448264462809917,
+    "combined_score": 0.13163186586141992,
+    "overlap_genes": [
+      "MYL1",
+      "NR1D2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Quercetin Up",
+    "rank": 7034,
+    "p_value": 0.8171329868260923,
+    "z_score": 0.6421399176954733,
+    "combined_score": 0.1296823542922454,
+    "overlap_genes": [
+      "CXCL13",
+      "CCR2"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Azithromycin Up",
+    "rank": 7077,
+    "p_value": 0.8171329868260923,
+    "z_score": 0.6421399176954733,
+    "combined_score": 0.1296823542922454,
+    "overlap_genes": [
+      "PDLIM3",
+      "SNX10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Triacetylresveratrol Up",
+    "rank": 7154,
+    "p_value": 0.8171329868260923,
+    "z_score": 0.6421399176954733,
+    "combined_score": 0.1296823542922454,
+    "overlap_genes": [
+      "ACSL1",
+      "SMPDL3A"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isoquercetin Down",
+    "rank": 7252,
+    "p_value": 0.8171329868260923,
+    "z_score": 0.6421399176954733,
+    "combined_score": 0.1296823542922454,
+    "overlap_genes": [
+      "USP9Y",
+      "GCG"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isotretinoin Down",
+    "rank": 7267,
+    "p_value": 0.8171329868260923,
+    "z_score": 0.6421399176954733,
+    "combined_score": 0.1296823542922454,
+    "overlap_genes": [
+      "GSTM3",
+      "SNX10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Curcumin Up",
+    "rank": 7421,
+    "p_value": 0.8188986281581825,
+    "z_score": 0.6394754098360655,
+    "combined_score": 0.12776397539655845,
+    "overlap_genes": [
+      "AKR1B10",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Quercetin Down",
+    "rank": 7603,
+    "p_value": 0.8188986281581825,
+    "z_score": 0.6394754098360655,
+    "combined_score": 0.12776397539655845,
+    "overlap_genes": [
+      "GSTM3",
+      "STEAP1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Ibuprofen Down",
+    "rank": 7650,
+    "p_value": 0.8188986281581825,
+    "z_score": 0.6394754098360655,
+    "combined_score": 0.12776397539655845,
+    "overlap_genes": [
+      "AKR1B10",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Alitretinoin Down",
+    "rank": 7687,
+    "p_value": 0.8188986281581825,
+    "z_score": 0.6394754098360655,
+    "combined_score": 0.12776397539655845,
+    "overlap_genes": [
+      "ACSL1",
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Metformin Up",
+    "rank": 8507,
+    "p_value": 0.8241045787559951,
+    "z_score": 0.6316113360323886,
+    "combined_score": 0.122190165520884,
+    "overlap_genes": [
+      "PTPRD",
+      "CADM1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Aminoresveratrol Down",
+    "rank": 8871,
+    "p_value": 0.9537852725651459,
+    "z_score": 0.32383798140770254,
+    "combined_score": 0.015322949160596833,
+    "overlap_genes": [
+      "MED13L"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Tretinoin Down",
+    "rank": 8909,
+    "p_value": 0.9543746526694894,
+    "z_score": 0.32247772395893604,
+    "combined_score": 0.015059376571448714,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Temsirolimus Up",
+    "rank": 8969,
+    "p_value": 0.9549565454309678,
+    "z_score": 0.3211287083072668,
+    "combined_score": 0.014800642880747743,
+    "overlap_genes": [
+      "SEMA5A"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Bromfenac Up",
+    "rank": 9095,
+    "p_value": 0.9555310455642644,
+    "z_score": 0.31979079566507634,
+    "combined_score": 0.014546651515024343,
+    "overlap_genes": [
+      "SLC17A3"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Nepafenac Up",
+    "rank": 9316,
+    "p_value": 0.9560982465527409,
+    "z_score": 0.318463849519953,
+    "combined_score": 0.014297308046418777,
+    "overlap_genes": [
+      "PRKAR2B"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Bromfenac Down",
+    "rank": 9383,
+    "p_value": 0.9560982465527409,
+    "z_score": 0.318463849519953,
+    "combined_score": 0.014297308046418777,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Aminoresveratrol Up",
+    "rank": 9827,
+    "p_value": 0.9572111198226605,
+    "z_score": 0.31584232176983124,
+    "combined_score": 0.013812197215944755,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Felbinac Up",
+    "rank": 10030,
+    "p_value": 0.9577569731478337,
+    "z_score": 0.3145474781037792,
+    "combined_score": 0.013576251225697023,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_Consensus_Sigs",
+    "term": "Isotretinoin Up",
+    "rank": 10223,
+    "p_value": 0.9582958900501082,
+    "z_score": 0.31326307672535664,
+    "combined_score": 0.013344595576823113,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.9588279581875446
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 24H-curcumin-48.0",
+    "rank": 67,
+    "p_value": 0.022760893027086716,
+    "z_score": 2.8553021831088636,
+    "combined_score": 10.800784215007894,
+    "overlap_genes": [
+      "HHEX",
+      "CASKIN2",
+      "ASMT",
+      "GFER",
+      "HCN2",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PL21 6H-curcumin-48.0",
+    "rank": 149,
+    "p_value": 0.03893545030265302,
+    "z_score": 3.2702297702297702,
+    "combined_score": 10.614675706917048,
+    "overlap_genes": [
+      "GALR3",
+      "HIST1H3G",
+      "AMPD2",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 24H-curcumin-48.0",
+    "rank": 447,
+    "p_value": 0.08719381013713993,
+    "z_score": 2.9670943396226415,
+    "combined_score": 7.238588434907105,
+    "overlap_genes": [
+      "CASKIN2",
+      "ASMT",
+      "AMPD2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SNUC4 6H-curcumin-48.0",
+    "rank": 505,
+    "p_value": 0.09240093216600061,
+    "z_score": 2.889732908600833,
+    "combined_score": 6.882240522964778,
+    "overlap_genes": [
+      "ASMT",
+      "ASH1L",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC001 VCAP 6H-resveratrol-10.0",
+    "rank": 550,
+    "p_value": 0.10232158188685343,
+    "z_score": 10.553772070626003,
+    "combined_score": 24.058744623236418,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-curcumin-48.0",
+    "rank": 665,
+    "p_value": 0.1145839531579777,
+    "z_score": 1.997833108467231,
+    "combined_score": 4.328200561846661,
+    "overlap_genes": [
+      "CASKIN2",
+      "ASMT",
+      "DCLK2",
+      "HCN2",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-dexamethasone-10.0",
+    "rank": 683,
+    "p_value": 0.11741903363962736,
+    "z_score": 3.5248836376655928,
+    "combined_score": 7.550322811753889,
+    "overlap_genes": [
+      "FOXG1",
+      "EN1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC017 MCF7 24H-diclofenac sodium-10.0",
+    "rank": 741,
+    "p_value": 0.12622823055296903,
+    "z_score": 8.207657095297545,
+    "combined_score": 16.98708959891292,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 6H-temsirolimus [ci779]-10.0",
+    "rank": 746,
+    "p_value": 0.12622823055296903,
+    "z_score": 8.207657095297545,
+    "combined_score": 16.98708959891292,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC018 SKB 24H-sirolimus-10.0",
+    "rank": 821,
+    "p_value": 0.1353455260706573,
+    "z_score": 3.2177182085648903,
+    "combined_score": 6.435192893743599,
+    "overlap_genes": [
+      "FOXG1",
+      "ARFIP2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT115 6H-curcumin-13.57",
+    "rank": 943,
+    "p_value": 0.14916203553273372,
+    "z_score": 3.020254718428725,
+    "combined_score": 5.746705331295968,
+    "overlap_genes": [
+      "GIPR",
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 MCF7 6H-isotretinoin-10.0",
+    "rank": 954,
+    "p_value": 0.1495005205351375,
+    "z_score": 6.714674838270344,
+    "combined_score": 12.760940084622744,
+    "overlap_genes": [
+      "GABRA6"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC011 PC3 24H-calcitriol-10.0",
+    "rank": 972,
+    "p_value": 0.1495005205351375,
+    "z_score": 6.714674838270344,
+    "combined_score": 12.760940084622744,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 VCAP 24H-isotretinoin-10.0",
+    "rank": 1041,
+    "p_value": 0.16090403908365228,
+    "z_score": 6.154806491885144,
+    "combined_score": 11.244506008237055,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 6H-temsirolimus [ci779]-10.0",
+    "rank": 1162,
+    "p_value": 0.1775542931488527,
+    "z_score": 2.6899521531100477,
+    "combined_score": 4.649525377108544,
+    "overlap_genes": [
+      "COL2A1",
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC005 A375 24H-budesonide-10.0",
+    "rank": 1189,
+    "p_value": 0.18236672603806978,
+    "z_score": 2.641783029001074,
+    "combined_score": 4.495616336292663,
+    "overlap_genes": [
+      "CST8",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 LOVO 6H-sirolimus-10.0",
+    "rank": 1283,
+    "p_value": 0.1920475556939556,
+    "z_score": 2.550427793621986,
+    "combined_score": 4.208237106596921,
+    "overlap_genes": [
+      "KCND3",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-temsirolimus [ci779]-10.0",
+    "rank": 1408,
+    "p_value": 0.2050148974017132,
+    "z_score": 4.615168539325842,
+    "combined_score": 7.3135312774069865,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 VCAP 24H-temsirolimus [ci779]-10.0",
+    "rank": 1516,
+    "p_value": 0.21567674513609847,
+    "z_score": 4.343467724168319,
+    "combined_score": 6.6627689152345,
+    "overlap_genes": [
+      "GABRA6"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC002 HA1E 24H-isotretinoin-10.0",
+    "rank": 1567,
+    "p_value": 0.2214432421490247,
+    "z_score": 2.3106203007518795,
+    "combined_score": 3.4834656687637273,
+    "overlap_genes": [
+      "FOXG1",
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC017 A549 6H-dexamethasone acetate-10.0",
+    "rank": 1677,
+    "p_value": 0.23132682572795638,
+    "z_score": 2.240373661426293,
+    "combined_score": 3.2797361858438188,
+    "overlap_genes": [
+      "AQP1",
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 TYKNU 6H-curcumin-48.0",
+    "rank": 1687,
+    "p_value": 0.23132682572795638,
+    "z_score": 2.240373661426293,
+    "combined_score": 3.2797361858438188,
+    "overlap_genes": [
+      "COL11A1",
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC016 A549 6H-budesonide-10.0",
+    "rank": 1714,
+    "p_value": 0.2362794084627119,
+    "z_score": 2.20682302771855,
+    "combined_score": 3.1838723848464996,
+    "overlap_genes": [
+      "ASH1L",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 MCF7 24H-sirolimus-10",
+    "rank": 1757,
+    "p_value": 0.23657494587129765,
+    "z_score": 3.885866351271437,
+    "combined_score": 5.6014383625270145,
+    "overlap_genes": [
+      "GEM"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 6H-curcumin-48.0",
+    "rank": 1811,
+    "p_value": 0.24620082277496558,
+    "z_score": 2.1426392067124334,
+    "combined_score": 3.003139660460686,
+    "overlap_genes": [
+      "CASKIN2",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 PC3 24H-sirolimus-10.0",
+    "rank": 1830,
+    "p_value": 0.24681506684100016,
+    "z_score": 3.691385767790262,
+    "combined_score": 5.164676668499777,
+    "overlap_genes": [
+      "C8A"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC020 MCF7 6H-isotretinoin-10.0",
+    "rank": 1848,
+    "p_value": 0.24681506684100016,
+    "z_score": 3.691385767790262,
+    "combined_score": 5.164676668499777,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 24H-BRD-K47635719 (dexamethasone acetate)-10.0",
+    "rank": 1950,
+    "p_value": 0.2569183385613277,
+    "z_score": 3.5154271446406278,
+    "combined_score": 4.77745491997216,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PL21 6H-temsirolimus [ci779]-10.0",
+    "rank": 2003,
+    "p_value": 0.2611083727728849,
+    "z_score": 2.053049289891395,
+    "combined_score": 2.756875106448684,
+    "overlap_genes": [
+      "CASQ2",
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-sirolimus-10.0",
+    "rank": 2016,
+    "p_value": 0.26608046657399076,
+    "z_score": 2.0248223297970953,
+    "combined_score": 2.680776705186686,
+    "overlap_genes": [
+      "COL11A1",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 HEPG2 24H-resveratrol-10",
+    "rank": 2057,
+    "p_value": 0.2668865831633556,
+    "z_score": 3.355464759959142,
+    "combined_score": 4.432339075038441,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC009 VCAP 6H-azithromycin-10.0",
+    "rank": 2068,
+    "p_value": 0.2668865831633556,
+    "z_score": 3.355464759959142,
+    "combined_score": 4.432339075038441,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SW480 6H-curcumin-48.0",
+    "rank": 2101,
+    "p_value": 0.27105247615532174,
+    "z_score": 1.9973582605161553,
+    "combined_score": 2.607437035908243,
+    "overlap_genes": [
+      "FIGF",
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 A549 24H-sirolimus-10",
+    "rank": 2244,
+    "p_value": 0.2864251586265837,
+    "z_score": 3.0755305867665417,
+    "combined_score": 3.845268241378655,
+    "overlap_genes": [
+      "NLRP2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 6H-dexamethasone acetate-10.0",
+    "rank": 2359,
+    "p_value": 0.29599901417479046,
+    "z_score": 2.952359550561798,
+    "combined_score": 3.5942000225653534,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 COV644 6H-temsirolimus [ci779]-10.0",
+    "rank": 2423,
+    "p_value": 0.3008347037441557,
+    "z_score": 1.8469924812030074,
+    "combined_score": 2.21859688132953,
+    "overlap_genes": [
+      "HIST1H1T",
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 24H-sirolimus-1.11",
+    "rank": 2434,
+    "p_value": 0.3008347037441557,
+    "z_score": 1.8469924812030074,
+    "combined_score": 2.21859688132953,
+    "overlap_genes": [
+      "GEM",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HEPG2 6H-sirolimus-10.0",
+    "rank": 2471,
+    "p_value": 0.3054448923258123,
+    "z_score": 2.8386632094497264,
+    "combined_score": 3.36661454644352,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 PC3 24H-resveratrol-0.04",
+    "rank": 2483,
+    "p_value": 0.3054448923258123,
+    "z_score": 2.8386632094497264,
+    "combined_score": 3.36661454644352,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 LNCAP 3H-sirolimus-10",
+    "rank": 2501,
+    "p_value": 0.3054448923258123,
+    "z_score": 2.8386632094497264,
+    "combined_score": 3.36661454644352,
+    "overlap_genes": [
+      "CPB1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC002 VCAP 6H-quercetin-10.0",
+    "rank": 2580,
+    "p_value": 0.31476449758861835,
+    "z_score": 2.7333888195311418,
+    "combined_score": 3.159607631879772,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 6H-rapamycin-11.1",
+    "rank": 2591,
+    "p_value": 0.31476449758861835,
+    "z_score": 2.7333888195311418,
+    "combined_score": 3.159607631879772,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC011 PC3 6H-calcitriol-10.0",
+    "rank": 2633,
+    "p_value": 0.31476449758861835,
+    "z_score": 2.7333888195311418,
+    "combined_score": 3.159607631879772,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SNUC5 6H-curcumin-48.0",
+    "rank": 2657,
+    "p_value": 0.31565795078908077,
+    "z_score": 1.7799619530754598,
+    "combined_score": 2.0524671610745924,
+    "overlap_genes": [
+      "FOXG1",
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH596 6H-dexamethasone-10.0",
+    "rank": 2684,
+    "p_value": 0.32058406343431217,
+    "z_score": 1.7586824203365556,
+    "combined_score": 2.0006960247600065,
+    "overlap_genes": [
+      "ASMT",
+      "EN1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SW948 6H-curcumin-48.0",
+    "rank": 2804,
+    "p_value": 0.33040977651217923,
+    "z_score": 1.717607973421927,
+    "combined_score": 1.9021162522789377,
+    "overlap_genes": [
+      "ASMT",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 VCAP 6H-diclofenac sodium-10.0",
+    "rank": 2949,
+    "p_value": 0.3419823821450709,
+    "z_score": 2.4596754057428214,
+    "combined_score": 2.6392220129494257,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 A375 24H-sirolimus-0.04",
+    "rank": 2986,
+    "p_value": 0.3419823821450709,
+    "z_score": 2.4596754057428214,
+    "combined_score": 2.6392220129494257,
+    "overlap_genes": [
+      "NLRP2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 6H-sirolimus-10.0",
+    "rank": 3036,
+    "p_value": 0.34993755141577254,
+    "z_score": 1.6409356725146198,
+    "combined_score": 1.7229833831780839,
+    "overlap_genes": [
+      "KCND3",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 6H-dexamethasone acetate-10.0",
+    "rank": 3062,
+    "p_value": 0.35081349172644555,
+    "z_score": 2.3802102210945995,
+    "combined_score": 2.4932715379484423,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HEPG2 6H-curcumin-48.0",
+    "rank": 3080,
+    "p_value": 0.35081349172644555,
+    "z_score": 2.3802102210945995,
+    "combined_score": 2.4932715379484423,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC009 HEPG2 6H-azithromycin-10.0",
+    "rank": 3099,
+    "p_value": 0.35081349172644555,
+    "z_score": 2.3802102210945995,
+    "combined_score": 2.4932715379484423,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 3H-sirolimus-10",
+    "rank": 3224,
+    "p_value": 0.35952651698861476,
+    "z_score": 2.3057116104868913,
+    "combined_score": 2.3586676817348438,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-sirolimus-10.0",
+    "rank": 3252,
+    "p_value": 0.3626341702972782,
+    "z_score": 1.4114890037255137,
+    "combined_score": 1.431759041907427,
+    "overlap_genes": [
+      "GFER",
+      "AQP1",
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SKLU1 6H-curcumin-48.0",
+    "rank": 3261,
+    "p_value": 0.3644568067613781,
+    "z_score": 1.5877597218853585,
+    "combined_score": 1.6026008843733985,
+    "overlap_genes": [
+      "FOXG1",
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 6H-curcumin-48.0",
+    "rank": 3492,
+    "p_value": 0.38083208351789133,
+    "z_score": 1.3675751222921033,
+    "combined_score": 1.320252546547564,
+    "overlap_genes": [
+      "FOXG1",
+      "ASMT",
+      "DCLK2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 THP1 6H-curcumin-48.0",
+    "rank": 3505,
+    "p_value": 0.38361993412245654,
+    "z_score": 1.5219750406945198,
+    "combined_score": 1.458208808908352,
+    "overlap_genes": [
+      "HIST1H3G",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 A375 6H-isotretinoin-10.0",
+    "rank": 3608,
+    "p_value": 0.38497271419958273,
+    "z_score": 2.1077581594435526,
+    "combined_score": 2.0120297264861393,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPD002 MCF7 6H-n-acetyl-dl-homocysteine thiolactone-10.0",
+    "rank": 3703,
+    "p_value": 0.3932289260705844,
+    "z_score": 2.049105285060341,
+    "combined_score": 1.9125597275076083,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 A549 24H-sirolimus-0.04",
+    "rank": 3728,
+    "p_value": 0.3932289260705844,
+    "z_score": 2.049105285060341,
+    "combined_score": 1.9125597275076083,
+    "overlap_genes": [
+      "GEM"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-budesonide-10.0",
+    "rank": 3891,
+    "p_value": 0.4072171904431576,
+    "z_score": 1.446999852572608,
+    "combined_score": 1.2999971094650022,
+    "overlap_genes": [
+      "AQP1",
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 6H-sirolimus-10.0",
+    "rank": 3923,
+    "p_value": 0.40941154700083204,
+    "z_score": 1.9410605164596886,
+    "combined_score": 1.733433816515906,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC15 6H-rapamycin-11.1",
+    "rank": 3952,
+    "p_value": 0.40941154700083204,
+    "z_score": 1.9410605164596886,
+    "combined_score": 1.733433816515906,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH596 6H-curcumin-48.0",
+    "rank": 4008,
+    "p_value": 0.41188491609776956,
+    "z_score": 1.4328783122855684,
+    "combined_score": 1.2709792523904562,
+    "overlap_genes": [
+      "FOXG1",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 T3M10 6H-curcumin-48.0",
+    "rank": 4012,
+    "p_value": 0.41188491609776956,
+    "z_score": 1.4328783122855684,
+    "combined_score": 1.2709792523904562,
+    "overlap_genes": [
+      "FOXG1",
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 6H-sirolimus-10.0",
+    "rank": 4189,
+    "p_value": 0.42516414305413847,
+    "z_score": 1.8438202247191011,
+    "combined_score": 1.576982498499676,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH1694 6H-curcumin-48.0",
+    "rank": 4361,
+    "p_value": 0.43494477737627546,
+    "z_score": 1.366193260930103,
+    "combined_score": 1.137405352085153,
+    "overlap_genes": [
+      "FFAR2",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 U937 6H-curcumin-48.0",
+    "rank": 4383,
+    "p_value": 0.4394986996494345,
+    "z_score": 1.353590398013382,
+    "combined_score": 1.1128144426474145,
+    "overlap_genes": [
+      "ASMT",
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC018 A549 24H-sirolimus-10.0",
+    "rank": 4413,
+    "p_value": 0.440498099619701,
+    "z_score": 1.755840913144284,
+    "combined_score": 1.439524676241562,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 6H-temsirolimus [ci779]-10.0",
+    "rank": 4519,
+    "p_value": 0.4480115637193435,
+    "z_score": 1.7149203031094853,
+    "combined_score": 1.3769716515496426,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 LOVO 6H-curcumin-48.0",
+    "rank": 4726,
+    "p_value": 0.46196196006695933,
+    "z_score": 1.2938926263025985,
+    "combined_score": 0.9992379892988974,
+    "overlap_genes": [
+      "HHEX",
+      "C8A"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT29 24H-calcitriol-1.0",
+    "rank": 4773,
+    "p_value": 0.4627382540796247,
+    "z_score": 1.638535164377861,
+    "combined_score": 1.2626448924546347,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 6H-dexamethasone-10.0",
+    "rank": 4856,
+    "p_value": 0.4699541425509541,
+    "z_score": 1.6028334147532974,
+    "combined_score": 1.2103318215223717,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC016 ASC 24H-isotretinoin-10.0",
+    "rank": 4857,
+    "p_value": 0.4699541425509541,
+    "z_score": 1.6028334147532974,
+    "combined_score": 1.2103318215223717,
+    "overlap_genes": [
+      "ASH1L"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 24H-dexamethasone-10.0",
+    "rank": 5071,
+    "p_value": 0.48409752946656115,
+    "z_score": 1.535892634207241,
+    "combined_score": 1.114242317437051,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SW948 6H-temsirolimus [ci779]-10.0",
+    "rank": 5114,
+    "p_value": 0.48409752946656115,
+    "z_score": 1.535892634207241,
+    "combined_score": 1.114242317437051,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-dexamethasone-10.0",
+    "rank": 5139,
+    "p_value": 0.48821136327947334,
+    "z_score": 1.2288220551378446,
+    "combined_score": 0.8810738253426705,
+    "overlap_genes": [
+      "COL11A1",
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT115 6H-curcumin-48.0",
+    "rank": 5182,
+    "p_value": 0.4910275855522238,
+    "z_score": 1.504471451501949,
+    "combined_score": 1.0700627976731167,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 WSUDLCL2 6H-sirolimus-10.0",
+    "rank": 5200,
+    "p_value": 0.4910275855522238,
+    "z_score": 1.504471451501949,
+    "combined_score": 1.0700627976731167,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-BRD-K47635719 (dexamethasone acetate)-10.0",
+    "rank": 5247,
+    "p_value": 0.4967825564329884,
+    "z_score": 1.208554172316036,
+    "combined_score": 0.8455079564193234,
+    "overlap_genes": [
+      "HHEX",
+      "COL11A1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH508 6H-curcumin-48.0",
+    "rank": 5427,
+    "p_value": 0.504610689821788,
+    "z_score": 1.4453256958213998,
+    "combined_score": 0.9885566097179466,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HEPG2 24H-sirolimus-0.37",
+    "rank": 5452,
+    "p_value": 0.504610689821788,
+    "z_score": 1.4453256958213998,
+    "combined_score": 0.9885566097179466,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MDST8 6H-curcumin-48.0",
+    "rank": 5487,
+    "p_value": 0.5094671011869789,
+    "z_score": 1.1793684210526316,
+    "combined_score": 0.7953542685128995,
+    "overlap_genes": [
+      "FOXG1",
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 6H-curcumin-48.0",
+    "rank": 5524,
+    "p_value": 0.5112661950445853,
+    "z_score": 1.4174589455488331,
+    "combined_score": 0.9509234463577813,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MDST8 6H-sirolimus-10.0",
+    "rank": 5539,
+    "p_value": 0.5112661950445853,
+    "z_score": 1.4174589455488331,
+    "combined_score": 0.9509234463577813,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-dexamethasone-10.0",
+    "rank": 5542,
+    "p_value": 0.5112661950445853,
+    "z_score": 1.4174589455488331,
+    "combined_score": 0.9509234463577813,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 VCAP 6H-curcumin-48.0",
+    "rank": 5590,
+    "p_value": 0.5133785229877711,
+    "z_score": 1.1055849056603773,
+    "combined_score": 0.7371397190554306,
+    "overlap_genes": [
+      "ASMT",
+      "HIST1H3G",
+      "DCLK2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT29 6H-curcumin-48.0",
+    "rank": 5647,
+    "p_value": 0.5178326130498156,
+    "z_score": 1.3906437707582504,
+    "combined_score": 0.9151871570016189,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-temsirolimus [ci779]-10.0",
+    "rank": 5651,
+    "p_value": 0.5178326130498156,
+    "z_score": 1.3906437707582504,
+    "combined_score": 0.9151871570016189,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 RMUGS 6H-curcumin-48.0",
+    "rank": 5656,
+    "p_value": 0.5178326130498156,
+    "z_score": 1.3906437707582504,
+    "combined_score": 0.9151871570016189,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 24H-budesonide-10.0",
+    "rank": 5912,
+    "p_value": 0.5370091462351906,
+    "z_score": 1.315944355270198,
+    "combined_score": 0.8181754441574605,
+    "overlap_genes": [
+      "LHX2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC020 HA1E 6H-budesonide-10.0",
+    "rank": 5938,
+    "p_value": 0.5370091462351906,
+    "z_score": 1.315944355270198,
+    "combined_score": 0.8181754441574605,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 6H-sirolimus-10.0",
+    "rank": 5940,
+    "p_value": 0.5370091462351906,
+    "z_score": 1.315944355270198,
+    "combined_score": 0.8181754441574605,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC002 HA1E 6H-quercetin-10.0",
+    "rank": 6026,
+    "p_value": 0.5432309394975114,
+    "z_score": 1.2927919048557723,
+    "combined_score": 0.7888884412784973,
+    "overlap_genes": [
+      "HCN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HEPG2 6H-dexamethasone acetate-10.0",
+    "rank": 6207,
+    "p_value": 0.5554257295979378,
+    "z_score": 1.2488414905097442,
+    "combined_score": 0.7343442464790751,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC005 HCC515 6H-budesonide-10.0",
+    "rank": 6212,
+    "p_value": 0.5554257295979378,
+    "z_score": 1.2488414905097442,
+    "combined_score": 0.7343442464790751,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-calcitriol-1.0",
+    "rank": 6295,
+    "p_value": 0.5614009339816464,
+    "z_score": 1.2279650436953808,
+    "combined_score": 0.7089287193354915,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A673 6H-sirolimus-10.0",
+    "rank": 6481,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "ST8SIA2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCT116 6H-sirolimus-10.0",
+    "rank": 6497,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 JHUEM2 6H-temsirolimus [ci779]-10.0",
+    "rank": 6502,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-sirolimus-10.0",
+    "rank": 6510,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 THP1 6H-sirolimus-10.0",
+    "rank": 6525,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "INHBE"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 24H-sirolimus-0.37",
+    "rank": 6544,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 24H-sirolimus-10.0",
+    "rank": 6591,
+    "p_value": 0.5788507242714989,
+    "z_score": 1.1693121693121693,
+    "combined_score": 0.6392754174312253,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 U937 6H-calcitriol-1.0",
+    "rank": 6732,
+    "p_value": 0.5845122246075424,
+    "z_score": 1.1509831460674158,
+    "combined_score": 0.6180521485947744,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC005 A549 24H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 6791,
+    "p_value": 0.590097897391674,
+    "z_score": 1.1332180927686546,
+    "combined_score": 0.5977349528978323,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC002 HA1E 24H-quercetin-10.0",
+    "rank": 6879,
+    "p_value": 0.5956087544355895,
+    "z_score": 1.1159913744183407,
+    "combined_score": 0.5782746786892896,
+    "overlap_genes": [
+      "MAST2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 JHUEM2 6H-sirolimus-10.0",
+    "rank": 7198,
+    "p_value": 0.6117023491567862,
+    "z_score": 1.0673071703848451,
+    "combined_score": 0.5245915841693444,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HEPG2 6H-sirolimus-10.0",
+    "rank": 7258,
+    "p_value": 0.6169237954701325,
+    "z_score": 1.0520064205457464,
+    "combined_score": 0.5081293801275196,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NOMO1 6H-curcumin-48.0",
+    "rank": 7291,
+    "p_value": 0.6169237954701325,
+    "z_score": 1.0520064205457464,
+    "combined_score": 0.5081293801275196,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 WSUDLCL2 6H-temsirolimus [ci779]-10.0",
+    "rank": 7378,
+    "p_value": 0.622075287113609,
+    "z_score": 1.037136677744369,
+    "combined_score": 0.49232271698640945,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HS578T 24H-sirolimus-1.11",
+    "rank": 7462,
+    "p_value": 0.6271577576981391,
+    "z_score": 1.0226799833541407,
+    "combined_score": 0.4771386715095065,
+    "overlap_genes": [
+      "TDO2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-dexamethasone-10.0",
+    "rank": 7803,
+    "p_value": 0.6515666178321414,
+    "z_score": 0.9560289897368549,
+    "combined_score": 0.4095395252133989,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NOMO1 6H-temsirolimus [ci779]-10.0",
+    "rank": 8028,
+    "p_value": 0.6654407962203035,
+    "z_score": 0.9200374531835206,
+    "combined_score": 0.3747364128313105,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCT116 6H-curcumin-48.0",
+    "rank": 8398,
+    "p_value": 0.6915594878337841,
+    "z_score": 0.8555874923787127,
+    "combined_score": 0.3155458899873556,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC001 HA1E 24H-resveratrol-10.0",
+    "rank": 8454,
+    "p_value": 0.6957106294840026,
+    "z_score": 0.8457101037496233,
+    "combined_score": 0.3068417807836807,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC015 A549 24H-dexamethasone acetate-10.0",
+    "rank": 8638,
+    "p_value": 0.7078330426808687,
+    "z_score": 0.8173949230129005,
+    "combined_score": 0.28244838677423584,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SW620 6H-curcumin-48.0",
+    "rank": 8712,
+    "p_value": 0.7117659556821275,
+    "z_score": 0.8083714038770219,
+    "combined_score": 0.27485123711167314,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-curcumin-48.0",
+    "rank": 8766,
+    "p_value": 0.7156461214988344,
+    "z_score": 0.7995440482006188,
+    "combined_score": 0.26750303477803605,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC017 A549 24H-dexamethasone-10.0",
+    "rank": 8858,
+    "p_value": 0.7232510217845827,
+    "z_score": 0.7824527850824767,
+    "combined_score": 0.253513859163298,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 24H-sirolimus-10.0",
+    "rank": 8904,
+    "p_value": 0.726977137836974,
+    "z_score": 0.7741770155726395,
+    "combined_score": 0.24685427611812974,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 AGS 6H-curcumin-48.0",
+    "rank": 9168,
+    "p_value": 0.7483072492825329,
+    "z_score": 0.7279638076167168,
+    "combined_score": 0.211067008793069,
+    "overlap_genes": [
+      "DCLK2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 COV644 6H-curcumin-48.0",
+    "rank": 9265,
+    "p_value": 0.7550416623831113,
+    "z_score": 0.7137558634231482,
+    "combined_score": 0.20055279932500159,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A673 6H-curcumin-48.0",
+    "rank": 9387,
+    "p_value": 0.7648081469952466,
+    "z_score": 0.6934492262030952,
+    "combined_score": 0.18593472468168232,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 6H-curcumin-48.0",
+    "rank": 9618,
+    "p_value": 0.7831924819321011,
+    "z_score": 0.656099518459069,
+    "combined_score": 0.16033549225969157,
+    "overlap_genes": [
+      "FFAR2"
+    ],
+    "adj_p": 0.9024530087974847
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC15 6H-curcumin-48.0",
+    "rank": 9875,
+    "p_value": 0.8081188343364328,
+    "z_score": 0.6070201504317949,
+    "combined_score": 0.12932331153155846,
+    "overlap_genes": [
+      "HIST1H3G"
+    ],
+    "adj_p": 0.9078775136130262
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT29 24H-curcumin-48.0",
+    "rank": 9970,
+    "p_value": 0.8182600556541504,
+    "z_score": 0.5874756554307116,
+    "combined_score": 0.11783297450434688,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.9105027454894209
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 24H-curcumin-48.0",
+    "rank": 10195,
+    "p_value": 0.8379242958323803,
+    "z_score": 0.6106516290726817,
+    "combined_score": 0.1079800141806382,
+    "overlap_genes": [
+      "HIST1H3G",
+      "HCN2"
+    ],
+    "adj_p": 0.9129459834755018
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-sirolimus-10.0",
+    "rank": 10220,
+    "p_value": 0.8413373690478431,
+    "z_score": 0.5436815092245804,
+    "combined_score": 0.09392780239515189,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9140536610148252
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MCF7 6H-curcumin-48.0",
+    "rank": 10331,
+    "p_value": 0.8517565166435405,
+    "z_score": 0.5241305510968433,
+    "combined_score": 0.08409914302964691,
+    "overlap_genes": [
+      "DCLK2"
+    ],
+    "adj_p": 0.914730686473666
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MCF7 24H-curcumin-48.0",
+    "rank": 10929,
+    "p_value": 0.9245788059074665,
+    "z_score": 0.4695259047941397,
+    "combined_score": 0.03681880824465655,
+    "overlap_genes": [
+      "ASMT",
+      "HCN2"
+    ],
+    "adj_p": 0.9400603615375394
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 VCAP 24H-curcumin-48.0",
+    "rank": 11020,
+    "p_value": 0.9458599678779247,
+    "z_score": 0.3415940354930169,
+    "combined_score": 0.01901337897659381,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.953669899560793
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-curcumin-48.0",
+    "rank": 11068,
+    "p_value": 0.9593483557226569,
+    "z_score": 0.31073392302175473,
+    "combined_score": 0.01289577510478668,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.9629011768395054
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 24H-sirolimus-10.0",
+    "rank": 11084,
+    "p_value": 0.9645370600913407,
+    "z_score": 0.2978980356187419,
+    "combined_score": 0.010756211291043474,
+    "overlap_genes": [
+      "GPR25"
+    ],
+    "adj_p": 0.9669736387346606
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 MCF7 3H-sirolimus-10",
+    "rank": 18,
+    "p_value": 0.0056702589839993265,
+    "z_score": 9.139017608897127,
+    "combined_score": 47.271755804805565,
+    "overlap_genes": [
+      "AKR1B10",
+      "PRKAR2B",
+      "SSX2IP"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 WSUDLCL2 6H-temsirolimus [ci779]-10.0",
+    "rank": 44,
+    "p_value": 0.012972153133563114,
+    "z_score": 4.667931688804554,
+    "combined_score": 20.28193112478686,
+    "overlap_genes": [
+      "PAX8",
+      "ARIH1",
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 24H-curcumin-48.0",
+    "rank": 60,
+    "p_value": 0.016971025347129867,
+    "z_score": 4.288142981691369,
+    "combined_score": 17.47953331115151,
+    "overlap_genes": [
+      "FOLH1",
+      "PAX8",
+      "PRKAR1B",
+      "ERG"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 A549 24H-sirolimus-10",
+    "rank": 133,
+    "p_value": 0.03921980055634408,
+    "z_score": 6.860869565217391,
+    "combined_score": 22.21943065918508,
+    "overlap_genes": [
+      "POLR3G",
+      "CXCL13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 24H-sirolimus-0.37",
+    "rank": 164,
+    "p_value": 0.04517207576558669,
+    "z_score": 3.953413654618474,
+    "combined_score": 12.244813925742964,
+    "overlap_genes": [
+      "AKR1B10",
+      "SLC39A8",
+      "CXCL13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP007 HA1E 24H-sirolimus-10",
+    "rank": 232,
+    "p_value": 0.060496770471859744,
+    "z_score": 3.486888731396173,
+    "combined_score": 9.781299260327946,
+    "overlap_genes": [
+      "GSTM3",
+      "PAX8",
+      "CADM1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 BT20 24H-sirolimus-0.12",
+    "rank": 298,
+    "p_value": 0.0711497472524605,
+    "z_score": 3.2472355174121144,
+    "combined_score": 8.582341206592298,
+    "overlap_genes": [
+      "SERPINB3",
+      "GSTM3",
+      "AKR1B10"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 CL34 6H-curcumin-48.0",
+    "rank": 417,
+    "p_value": 0.08979447977814314,
+    "z_score": 2.925330953443403,
+    "combined_score": 7.050725625060495,
+    "overlap_genes": [
+      "GRM4",
+      "ACSL1",
+      "KLK13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 3H-sirolimus-0.37",
+    "rank": 628,
+    "p_value": 0.1183200402374545,
+    "z_score": 3.5027555555555554,
+    "combined_score": 7.476148775171498,
+    "overlap_genes": [
+      "AKR1B10",
+      "KLK13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HME1 24H-sirolimus-3.33",
+    "rank": 766,
+    "p_value": 0.13518250271801704,
+    "z_score": 3.2161632653061223,
+    "combined_score": 6.435959320538208,
+    "overlap_genes": [
+      "PDLIM3",
+      "STEAP1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-0.04",
+    "rank": 786,
+    "p_value": 0.13947881452052255,
+    "z_score": 3.15168,
+    "combined_score": 6.208313388438752,
+    "overlap_genes": [
+      "PAX8",
+      "PRKAR2B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HEPG2 24H-sirolimus-0.37",
+    "rank": 787,
+    "p_value": 0.13947881452052255,
+    "z_score": 3.15168,
+    "combined_score": 6.208313388438752,
+    "overlap_genes": [
+      "CADM1",
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 HA1E 24H-sirolimus-10",
+    "rank": 846,
+    "p_value": 0.14815805073497945,
+    "z_score": 3.030153846153846,
+    "combined_score": 5.78600502939814,
+    "overlap_genes": [
+      "PAX8",
+      "POLR3G"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 BT20 24H-sirolimus-1.11",
+    "rank": 859,
+    "p_value": 0.14815805073497945,
+    "z_score": 3.030153846153846,
+    "combined_score": 5.78600502939814,
+    "overlap_genes": [
+      "GSTM3",
+      "IL2RG"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 VCAP 24H-isotretinoin-10.0",
+    "rank": 875,
+    "p_value": 0.1520130506430728,
+    "z_score": 6.552456839309429,
+    "combined_score": 12.343445476872184,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC005 HCC515 6H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 919,
+    "p_value": 0.15694350310396624,
+    "z_score": 2.9176296296296296,
+    "combined_score": 5.403069006078362,
+    "overlap_genes": [
+      "ERBB2IP",
+      "KLK8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC020 HA1E 6H-budesonide-10.0",
+    "rank": 938,
+    "p_value": 0.16137269813336222,
+    "z_score": 2.8644363636363637,
+    "combined_score": 5.224842763777889,
+    "overlap_genes": [
+      "PAX8",
+      "KLK13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 MCF7 24H-tretinoin-10.0",
+    "rank": 982,
+    "p_value": 0.16582447137343484,
+    "z_score": 2.813142857142857,
+    "combined_score": 5.054726684233127,
+    "overlap_genes": [
+      "DNAH17",
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-calcitriol-1.0",
+    "rank": 1075,
+    "p_value": 0.1793027507024527,
+    "z_score": 2.669694915254237,
+    "combined_score": 4.588350074668521,
+    "overlap_genes": [
+      "GCG",
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-3.33",
+    "rank": 1241,
+    "p_value": 0.1975162913088045,
+    "z_score": 2.4996825396825395,
+    "combined_score": 4.054320626259071,
+    "overlap_genes": [
+      "AKR1B10",
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC15 6H-curcumin-48.0",
+    "rank": 1251,
+    "p_value": 0.19942247067651586,
+    "z_score": 1.9873443353244913,
+    "combined_score": 3.204254368203754,
+    "overlap_genes": [
+      "PRKAR1B",
+      "DNAH17",
+      "CCR2"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 24H-sirolimus-10.0",
+    "rank": 1363,
+    "p_value": 0.21131921596138048,
+    "z_score": 2.3856969696969696,
+    "combined_score": 3.70829257881303,
+    "overlap_genes": [
+      "CHRNA3",
+      "GLI2"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MDST8 6H-curcumin-48.0",
+    "rank": 1438,
+    "p_value": 0.2156885743742091,
+    "z_score": 1.9067236688690246,
+    "combined_score": 2.9247609923668403,
+    "overlap_genes": [
+      "PRKAR1B",
+      "DNAH17",
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC011 VCAP 24H-calcitriol-10.0",
+    "rank": 1518,
+    "p_value": 0.22409236726442855,
+    "z_score": 4.1369259802893685,
+    "combined_score": 6.187587605276041,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 MCF7 24H-sirolimus-10",
+    "rank": 1520,
+    "p_value": 0.22409236726442855,
+    "z_score": 4.1369259802893685,
+    "combined_score": 6.187587605276041,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 PC3 24H-sirolimus-10.0",
+    "rank": 1592,
+    "p_value": 0.23387857555286984,
+    "z_score": 3.9298804780876493,
+    "combined_score": 5.709932440610211,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC016 NPC 24H-isotretinoin-10.0",
+    "rank": 1753,
+    "p_value": 0.25308369280940196,
+    "z_score": 3.572256428830134,
+    "combined_score": 4.9084055170064165,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 HEPG2 24H-resveratrol-10",
+    "rank": 1772,
+    "p_value": 0.25308369280940196,
+    "z_score": 3.572256428830134,
+    "combined_score": 4.9084055170064165,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 MDAMB231 3H-sirolimus-3.33",
+    "rank": 1795,
+    "p_value": 0.25308369280940196,
+    "z_score": 3.572256428830134,
+    "combined_score": 4.9084055170064165,
+    "overlap_genes": [
+      "PRKAR2B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 24H-sirolimus-1.11",
+    "rank": 2024,
+    "p_value": 0.2765398820051102,
+    "z_score": 1.9668,
+    "combined_score": 2.5281251717831226,
+    "overlap_genes": [
+      "CXCL13",
+      "SSX2IP"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HA1E 6H-dexamethasone acetate-10.0",
+    "rank": 2039,
+    "p_value": 0.28099591185427053,
+    "z_score": 3.1431075697211157,
+    "combined_score": 3.9899083932202943,
+    "overlap_genes": [
+      "DNAH17"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP007 MCF7 24H-sirolimus-10",
+    "rank": 2187,
+    "p_value": 0.2900671421580373,
+    "z_score": 3.0220655838185717,
+    "combined_score": 3.7402378865725248,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH1836 6H-sirolimus-10.0",
+    "rank": 2262,
+    "p_value": 0.2990243746382632,
+    "z_score": 2.9099896709458464,
+    "combined_score": 3.51302737865366,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HME1 3H-sirolimus-1.11",
+    "rank": 2286,
+    "p_value": 0.2990243746382632,
+    "z_score": 2.9099896709458464,
+    "combined_score": 3.51302737865366,
+    "overlap_genes": [
+      "SERPINB3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC011 PC3 6H-calcitriol-10.0",
+    "rank": 2288,
+    "p_value": 0.2990243746382632,
+    "z_score": 2.9099896709458464,
+    "combined_score": 3.51302737865366,
+    "overlap_genes": [
+      "CYP39A1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 MCF10A 3H-sirolimus-10",
+    "rank": 2289,
+    "p_value": 0.2990243746382632,
+    "z_score": 2.9099896709458464,
+    "combined_score": 3.51302737865366,
+    "overlap_genes": [
+      "STEAP1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 6H-curcumin-48.0",
+    "rank": 2322,
+    "p_value": 0.3045172839376693,
+    "z_score": 1.8290232558139534,
+    "combined_score": 2.1747588244586966,
+    "overlap_genes": [
+      "PRKAR1B",
+      "HLA-C"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP007 A375 24H-sirolimus-10",
+    "rank": 2639,
+    "p_value": 0.3252262659729961,
+    "z_score": 2.6185922974767597,
+    "combined_score": 2.941292256518778,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 6H-dexamethasone acetate-10.0",
+    "rank": 2693,
+    "p_value": 0.33374159999398156,
+    "z_score": 2.5339930600179925,
+    "combined_score": 2.7807741795966168,
+    "overlap_genes": [
+      "DNAH17"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HME1 24H-sirolimus-0.04",
+    "rank": 2735,
+    "p_value": 0.33374159999398156,
+    "z_score": 2.5339930600179925,
+    "combined_score": 2.7807741795966168,
+    "overlap_genes": [
+      "SLC39A8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HT29 24H-sirolimus-0.04",
+    "rank": 2738,
+    "p_value": 0.33374159999398156,
+    "z_score": 2.5339930600179925,
+    "combined_score": 2.7807741795966168,
+    "overlap_genes": [
+      "PRKAR2B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HEPG2 6H-temsirolimus [ci779]-10.0",
+    "rank": 2800,
+    "p_value": 0.34214989522999417,
+    "z_score": 2.4546812749003983,
+    "combined_score": 2.632661249142778,
+    "overlap_genes": [
+      "CYP39A1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP009 HEPG2 24H-sirolimus-10",
+    "rank": 2808,
+    "p_value": 0.34214989522999417,
+    "z_score": 2.4546812749003983,
+    "combined_score": 2.632661249142778,
+    "overlap_genes": [
+      "SLC39A8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 3H-sirolimus-10",
+    "rank": 2848,
+    "p_value": 0.34214989522999417,
+    "z_score": 2.4546812749003983,
+    "combined_score": 2.632661249142778,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-0.12",
+    "rank": 3198,
+    "p_value": 0.3667458672961938,
+    "z_score": 2.243938531587934,
+    "combined_score": 2.2508636186673487,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 COV644 6H-curcumin-48.0",
+    "rank": 3358,
+    "p_value": 0.3778261413315511,
+    "z_score": 1.5408627450980392,
+    "combined_score": 1.4997542724500832,
+    "overlap_genes": [
+      "PRKAR1B",
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HCC515 24H-sirolimus-1.11",
+    "rank": 3824,
+    "p_value": 0.4057202283291293,
+    "z_score": 1.9629482071713147,
+    "combined_score": 1.7707587938919342,
+    "overlap_genes": [
+      "PTPRD"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 6H-curcumin-48.0",
+    "rank": 3976,
+    "p_value": 0.4176771995520806,
+    "z_score": 1.4152792792792792,
+    "combined_score": 1.2356044722278068,
+    "overlap_genes": [
+      "PRKAR1B",
+      "ACSL1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-dexamethasone-10.0",
+    "rank": 4153,
+    "p_value": 0.4279481949846081,
+    "z_score": 1.8257203743166868,
+    "combined_score": 1.5495858830857483,
+    "overlap_genes": [
+      "ERBB2IP"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 24H-sirolimus-0.12",
+    "rank": 4211,
+    "p_value": 0.4279481949846081,
+    "z_score": 1.8257203743166868,
+    "combined_score": 1.5495858830857483,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC002 VCAP 24H-quercetin-10.0",
+    "rank": 4367,
+    "p_value": 0.4423047939650767,
+    "z_score": 1.7444001770694997,
+    "combined_score": 1.4230050075696294,
+    "overlap_genes": [
+      "KLK13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-0.37",
+    "rank": 4646,
+    "p_value": 0.4563024831086104,
+    "z_score": 1.6700008476731372,
+    "combined_score": 1.310281578298094,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HME1 24H-sirolimus-1.11",
+    "rank": 4647,
+    "p_value": 0.4563024831086104,
+    "z_score": 1.6700008476731372,
+    "combined_score": 1.310281578298094,
+    "overlap_genes": [
+      "KLK8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 ASC 24H-tretinoin-10.0",
+    "rank": 4687,
+    "p_value": 0.4631695382410419,
+    "z_score": 1.6351261620185924,
+    "combined_score": 1.258494666060737,
+    "overlap_genes": [
+      "IRS4"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HME1 3H-sirolimus-10",
+    "rank": 4982,
+    "p_value": 0.476645551332717,
+    "z_score": 1.569561752988048,
+    "combined_score": 1.1630172317407566,
+    "overlap_genes": [
+      "PDLIM3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 PC3 24H-sirolimus-0.37",
+    "rank": 4990,
+    "p_value": 0.476645551332717,
+    "z_score": 1.569561752988048,
+    "combined_score": 1.1630172317407566,
+    "overlap_genes": [
+      "SERPINB3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH508 6H-curcumin-48.0",
+    "rank": 5068,
+    "p_value": 0.4832566610331874,
+    "z_score": 1.5387079134442623,
+    "combined_score": 1.118959745957597,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 A375 24H-sirolimus-10",
+    "rank": 5150,
+    "p_value": 0.48978458498305866,
+    "z_score": 1.509040760036776,
+    "combined_score": 1.0771376110888127,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MDST8 6H-rapamycin-11.1",
+    "rank": 5180,
+    "p_value": 0.48978458498305866,
+    "z_score": 1.509040760036776,
+    "combined_score": 1.0771376110888127,
+    "overlap_genes": [
+      "EDAR"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 LNCAP 24H-sirolimus-0.37",
+    "rank": 5208,
+    "p_value": 0.48978458498305866,
+    "z_score": 1.509040760036776,
+    "combined_score": 1.0771376110888127,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC001 HA1E 6H-resveratrol-10.0",
+    "rank": 5252,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "GUCA2B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 H1299 6H-sirolimus-10.0",
+    "rank": 5275,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "CARD8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-temsirolimus [ci779]-10.0",
+    "rank": 5282,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "DNAH17"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-1.11",
+    "rank": 5302,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 PC3 24H-sirolimus-0.04",
+    "rank": 5321,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "SERPINB3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HCC515 24H-sirolimus-0.04",
+    "rank": 5414,
+    "p_value": 0.5025950328787242,
+    "z_score": 1.4530028036004132,
+    "combined_score": 0.9996231187259461,
+    "overlap_genes": [
+      "PRKAR2B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HS578T 24H-sirolimus-0.04",
+    "rank": 5419,
+    "p_value": 0.5025950328787242,
+    "z_score": 1.4530028036004132,
+    "combined_score": 0.9996231187259461,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 SKBR3 3H-sirolimus-0.12",
+    "rank": 5424,
+    "p_value": 0.5025950328787242,
+    "z_score": 1.4530028036004132,
+    "combined_score": 0.9996231187259461,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-temsirolimus [ci779]-10.0",
+    "rank": 5587,
+    "p_value": 0.5150850804547993,
+    "z_score": 1.4009675583380763,
+    "combined_score": 0.9294343627116923,
+    "overlap_genes": [
+      "KLK13"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 24H-temsirolimus [ci779]-10.0",
+    "rank": 5603,
+    "p_value": 0.5150850804547993,
+    "z_score": 1.4009675583380763,
+    "combined_score": 0.9294343627116923,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HEPG2 6H-dexamethasone acetate-10.0",
+    "rank": 5861,
+    "p_value": 0.5332368083479825,
+    "z_score": 1.3295293402660544,
+    "combined_score": 0.8359943020247481,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HA1E 24H-sirolimus-10",
+    "rank": 6094,
+    "p_value": 0.544960345995237,
+    "z_score": 1.2858075893148717,
+    "combined_score": 0.7805395277230219,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP007 PC3 24H-sirolimus-10",
+    "rank": 6201,
+    "p_value": 0.5507116593258926,
+    "z_score": 1.2650044981364863,
+    "combined_score": 0.7546307308893667,
+    "overlap_genes": [
+      "PDLIM3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 MCF7 24H-curcumin-48.0",
+    "rank": 6293,
+    "p_value": 0.5581233186757748,
+    "z_score": 1.0146675018269131,
+    "combined_score": 0.5917290651689592,
+    "overlap_genes": [
+      "FOLH1",
+      "GRM4",
+      "DNAH17",
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 U937 6H-calcitriol-1.0",
+    "rank": 6354,
+    "p_value": 0.5619979726701294,
+    "z_score": 1.2253486055776892,
+    "combined_score": 0.7061157560603458,
+    "overlap_genes": [
+      "ERBB2IP"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 LNCAP 24H-sirolimus-0.12",
+    "rank": 6372,
+    "p_value": 0.5619979726701294,
+    "z_score": 1.2253486055776892,
+    "combined_score": 0.7061157560603458,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP009 PC3 24H-sirolimus-10",
+    "rank": 6516,
+    "p_value": 0.5730018647600971,
+    "z_score": 1.1880961004466981,
+    "combined_score": 0.6616106888767185,
+    "overlap_genes": [
+      "NAMPT"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 JHUEM2 6H-sirolimus-10.0",
+    "rank": 6820,
+    "p_value": 0.5889935147166339,
+    "z_score": 1.1362665280905364,
+    "combined_score": 0.6014714444907616,
+    "overlap_genes": [
+      "EPHA4"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 OV7 6H-curcumin-48.0",
+    "rank": 6828,
+    "p_value": 0.5889935147166339,
+    "z_score": 1.1362665280905364,
+    "combined_score": 0.6014714444907616,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HEPG2 6H-sirolimus-10.0",
+    "rank": 6893,
+    "p_value": 0.5941903695198504,
+    "z_score": 1.119977233921457,
+    "combined_score": 0.583010335376415,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 6H-curcumin-48.0",
+    "rank": 6901,
+    "p_value": 0.5941903695198504,
+    "z_score": 1.119977233921457,
+    "combined_score": 0.583010335376415,
+    "overlap_genes": [
+      "PRKAR1B"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SKM1 6H-sirolimus-10.0",
+    "rank": 7002,
+    "p_value": 0.599321771350913,
+    "z_score": 1.1041467931092532,
+    "combined_score": 0.5652752869158422,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HS578T 24H-sirolimus-0.12",
+    "rank": 7156,
+    "p_value": 0.6093914903337324,
+    "z_score": 1.0737870436063963,
+    "combined_score": 0.5318406842951269,
+    "overlap_genes": [
+      "SLC39A8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-sirolimus-10.0",
+    "rank": 7199,
+    "p_value": 0.6143314190891438,
+    "z_score": 1.0592225691827286,
+    "combined_score": 0.5160751891053426,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP006 HS578T 24H-sirolimus-0.37",
+    "rank": 7238,
+    "p_value": 0.6143314190891438,
+    "z_score": 1.0592225691827286,
+    "combined_score": 0.5160751891053426,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A549 6H-dexamethasone-10.0",
+    "rank": 7278,
+    "p_value": 0.6192091184011366,
+    "z_score": 1.0450464807436919,
+    "combined_score": 0.5009035598861411,
+    "overlap_genes": [
+      "GRM4"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-dexamethasone acetate-10.0",
+    "rank": 7424,
+    "p_value": 0.628780941785771,
+    "z_score": 1.0177989341335956,
+    "combined_score": 0.47223056043879935,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-dexamethasone-10.0",
+    "rank": 7437,
+    "p_value": 0.628780941785771,
+    "z_score": 1.0177989341335956,
+    "combined_score": 0.47223056043879935,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC005 A549 6H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 7520,
+    "p_value": 0.6334765985279468,
+    "z_score": 1.0046991521095108,
+    "combined_score": 0.4586775342189961,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "LJP008 PC3 24H-sirolimus-10",
+    "rank": 8042,
+    "p_value": 0.6647305341861757,
+    "z_score": 0.9216311225685493,
+    "combined_score": 0.37636975690587643,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 RKO 6H-curcumin-48.0",
+    "rank": 8257,
+    "p_value": 0.677298637306221,
+    "z_score": 0.8900760593987685,
+    "combined_score": 0.34681189240604926,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 EFO27 6H-curcumin-48.0",
+    "rank": 8304,
+    "p_value": 0.6813828318032505,
+    "z_score": 0.8800304400376024,
+    "combined_score": 0.3376069309432079,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 WSUDLCL2 6H-curcumin-48.0",
+    "rank": 8328,
+    "p_value": 0.6813828318032505,
+    "z_score": 0.8800304400376024,
+    "combined_score": 0.3376069309432079,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC015 A549 24H-dexamethasone acetate-10.0",
+    "rank": 8367,
+    "p_value": 0.6854155379794353,
+    "z_score": 0.8702080566622399,
+    "combined_score": 0.3287036891167205,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 SW620 6H-curcumin-48.0",
+    "rank": 8457,
+    "p_value": 0.6893974022788267,
+    "z_score": 0.8606015498445777,
+    "combined_score": 0.3200898968578242,
+    "overlap_genes": [
+      "DNAH17"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH2073 6H-curcumin-48.0",
+    "rank": 8499,
+    "p_value": 0.6933290631219583,
+    "z_score": 0.8512038801316473,
+    "combined_score": 0.31175389260776326,
+    "overlap_genes": [
+      "DNAH17"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 6H-sirolimus-10.0",
+    "rank": 8551,
+    "p_value": 0.6972111510471299,
+    "z_score": 0.8420083108426509,
+    "combined_score": 0.30368458738265475,
+    "overlap_genes": [
+      "DDX60"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC017 A549 24H-dexamethasone-10.0",
+    "rank": 8621,
+    "p_value": 0.7010442886709425,
+    "z_score": 0.8330083919640586,
+    "combined_score": 0.2958714315128246,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PL21 6H-curcumin-48.0",
+    "rank": 8639,
+    "p_value": 0.7010442886709425,
+    "z_score": 0.8330083919640586,
+    "combined_score": 0.2958714315128246,
+    "overlap_genes": [
+      "ACSL1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-budesonide-10.0",
+    "rank": 9070,
+    "p_value": 0.7334387090667299,
+    "z_score": 0.759873128843848,
+    "combined_score": 0.23556921429316305,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A673 6H-curcumin-48.0",
+    "rank": 9228,
+    "p_value": 0.7434400894294078,
+    "z_score": 0.7382545290535969,
+    "combined_score": 0.2188681759252012,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 NCIH1694 6H-curcumin-48.0",
+    "rank": 9356,
+    "p_value": 0.7530676485395992,
+    "z_score": 0.7178259439306992,
+    "combined_score": 0.20357559312205412,
+    "overlap_genes": [
+      "CCR2"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 U937 6H-curcumin-48.0",
+    "rank": 9404,
+    "p_value": 0.7561961842676221,
+    "z_score": 0.7112640347700109,
+    "combined_score": 0.19876588788294755,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC017 SKB 24H-resveratrol-10.0",
+    "rank": 9547,
+    "p_value": 0.7683204360610694,
+    "z_score": 0.6861676102607115,
+    "combined_score": 0.18083837471682015,
+    "overlap_genes": [
+      "ZNF813"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 LOVO 6H-curcumin-48.0",
+    "rank": 9606,
+    "p_value": 0.7712564615055255,
+    "z_score": 0.6801662913563139,
+    "combined_score": 0.17666253313949842,
+    "overlap_genes": [
+      "GLI2"
+    ],
+    "adj_p": 0.8928023767238796
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-BRD-K47635719 (dexamethasone acetate)-10.0",
+    "rank": 9903,
+    "p_value": 0.7934488454457265,
+    "z_score": 0.6356687072846824,
+    "combined_score": 0.1470722584001261,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8931107890800851
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HT29 24H-curcumin-48.0",
+    "rank": 9972,
+    "p_value": 0.7986532951025744,
+    "z_score": 0.6254342629482071,
+    "combined_score": 0.14061535394382643,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.8931107890800851
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 24H-sirolimus-10.0",
+    "rank": 10214,
+    "p_value": 0.8188986281581825,
+    "z_score": 0.6394754098360655,
+    "combined_score": 0.12776397539655845,
+    "overlap_genes": [
+      "EPHA4",
+      "GUCA2B"
+    ],
+    "adj_p": 0.896026147277839
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC014 VCAP 24H-dexamethasone-10.0",
+    "rank": 10669,
+    "p_value": 0.8661980128929067,
+    "z_score": 0.49714517725277235,
+    "combined_score": 0.07141080040873697,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.9062562246855573
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC004 HCC515 24H-sirolimus-10.0",
+    "rank": 10699,
+    "p_value": 0.8695751300182281,
+    "z_score": 0.49084166478739133,
+    "combined_score": 0.06859538914138742,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.9069875551174724
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 A375 24H-curcumin-48.0",
+    "rank": 10745,
+    "p_value": 0.8744822679994825,
+    "z_score": 0.48167822537012445,
+    "combined_score": 0.06460425456052428,
+    "overlap_genes": [
+      "PAX8"
+    ],
+    "adj_p": 0.9087980125685527
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HCC515 24H-curcumin-48.0",
+    "rank": 10994,
+    "p_value": 0.9122729324537684,
+    "z_score": 0.41010694065841896,
+    "combined_score": 0.03765440578215058,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.9272907951890237
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 VCAP 6H-curcumin-48.0",
+    "rank": 11038,
+    "p_value": 0.9247697005809088,
+    "z_score": 0.38550747505029387,
+    "combined_score": 0.03015074965333516,
+    "overlap_genes": [
+      "GUCA2B"
+    ],
+    "adj_p": 0.9363314163518968
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 HA1E 24H-curcumin-48.0",
+    "rank": 11126,
+    "p_value": 0.9507226598214849,
+    "z_score": 0.3308129185386115,
+    "combined_score": 0.016716932498918532,
+    "overlap_genes": [
+      "PRKAR1B"
+    ],
+    "adj_p": 0.954995186604792
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_down",
+    "term": "CPC006 PC3 24H-curcumin-48.0",
+    "rank": 11137,
+    "p_value": 0.9543746526694894,
+    "z_score": 0.32247772395893604,
+    "combined_score": 0.015059376571448714,
+    "overlap_genes": [
+      "GRM4"
+    ],
+    "adj_p": 0.9577167206818905
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 VCAP 24H-resveratrol-10.0",
+    "rank": 76,
+    "p_value": 0.03464641115677174,
+    "z_score": 7.410526315789474,
+    "combined_score": 24.91834776328414,
+    "overlap_genes": [
+      "HHEX",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC002 VCAP 6H-quercetin-10.0",
+    "rank": 117,
+    "p_value": 0.04707879191635455,
+    "z_score": 6.174185463659148,
+    "combined_score": 18.867894989694662,
+    "overlap_genes": [
+      "FOXG1",
+      "INHBE"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HA1E 6H-rapamycin-11.1",
+    "rank": 150,
+    "p_value": 0.05730410244033901,
+    "z_score": 5.487329434697855,
+    "combined_score": 15.690376841226762,
+    "overlap_genes": [
+      "COL2A1",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC020 HT29 6H-isotretinoin-10.0",
+    "rank": 429,
+    "p_value": 0.10441024660050979,
+    "z_score": 3.7966069018700597,
+    "combined_score": 8.578157892082002,
+    "overlap_genes": [
+      "KCND3",
+      "FFAR2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC020 MCF7 6H-isotretinoin-10.0",
+    "rank": 445,
+    "p_value": 0.10870110148428637,
+    "z_score": 3.7015037593984963,
+    "combined_score": 8.214204473837235,
+    "overlap_genes": [
+      "KCND3",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC002 HCC515 6H-quercetin-10.0",
+    "rank": 578,
+    "p_value": 0.12630553030337022,
+    "z_score": 3.36431989063568,
+    "combined_score": 6.960950993545194,
+    "overlap_genes": [
+      "FOXG1",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A673 6H-temsirolimus [ci779]-10.0",
+    "rank": 626,
+    "p_value": 0.1351932901450285,
+    "z_score": 2.416735028712059,
+    "combined_score": 4.836007014651885,
+    "overlap_genes": [
+      "HHEX",
+      "FIGF",
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP009 A375 24H-sirolimus-10",
+    "rank": 716,
+    "p_value": 0.14452463283639944,
+    "z_score": 3.0833333333333335,
+    "combined_score": 5.964108059214085,
+    "overlap_genes": [
+      "HHEX",
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 VCAP 6H-budesonide-10.0",
+    "rank": 809,
+    "p_value": 0.16090403908365228,
+    "z_score": 6.154806491885144,
+    "combined_score": 11.244506008237055,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 VCAP 6H-resveratrol-10.0",
+    "rank": 879,
+    "p_value": 0.1721552220259798,
+    "z_score": 5.6810717372515125,
+    "combined_score": 9.995043301532759,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPD001 MCF7 6H-dexamethasone acetate-10.0",
+    "rank": 901,
+    "p_value": 0.1721552220259798,
+    "z_score": 5.6810717372515125,
+    "combined_score": 9.995043301532759,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 A549 6H-quercetin-10.0",
+    "rank": 1067,
+    "p_value": 0.1920475556939556,
+    "z_score": 2.550427793621986,
+    "combined_score": 4.208237106596921,
+    "overlap_genes": [
+      "KCND3",
+      "FOXG1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC002 HA1E 24H-quercetin-10.0",
+    "rank": 1193,
+    "p_value": 0.206688660789111,
+    "z_score": 2.424627141624553,
+    "combined_score": 3.8225257280771157,
+    "overlap_genes": [
+      "KCND3",
+      "HIST1H3G"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A549 6H-temsirolimus [ci779]-10.0",
+    "rank": 1236,
+    "p_value": 0.21112253312484283,
+    "z_score": 1.723044397463002,
+    "combined_score": 2.6798795338409027,
+    "overlap_genes": [
+      "ASMT",
+      "COL8A2",
+      "EN1",
+      "FFAR2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A375 6H-curcumin-48.0",
+    "rank": 1240,
+    "p_value": 0.2115958705117956,
+    "z_score": 2.3853989813242786,
+    "combined_score": 3.7047085196825797,
+    "overlap_genes": [
+      "KCND3",
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC515 24H-calcitriol-1.0",
+    "rank": 1476,
+    "p_value": 0.23657494587129765,
+    "z_score": 3.885866351271437,
+    "combined_score": 5.6014383625270145,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-sirolimus-10.0",
+    "rank": 1524,
+    "p_value": 0.24123775391191524,
+    "z_score": 2.1742591773551525,
+    "combined_score": 3.091736325477356,
+    "overlap_genes": [
+      "HRH1",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH1836 6H-sirolimus-10.0",
+    "rank": 1623,
+    "p_value": 0.2511676023830866,
+    "z_score": 2.111922663802363,
+    "combined_score": 2.9179058981376205,
+    "overlap_genes": [
+      "COL8A2",
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 6H-sirolimus-10.0",
+    "rank": 1769,
+    "p_value": 0.2668865831633556,
+    "z_score": 3.355464759959142,
+    "combined_score": 4.432339075038441,
+    "overlap_genes": [
+      "ASH1L"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A549 24H-curcumin-48.0",
+    "rank": 1829,
+    "p_value": 0.27105247615532174,
+    "z_score": 1.9973582605161553,
+    "combined_score": 2.607437035908243,
+    "overlap_genes": [
+      "KCND3",
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 3H-sirolimus-1.11",
+    "rank": 2086,
+    "p_value": 0.2864251586265837,
+    "z_score": 3.0755305867665417,
+    "combined_score": 3.845268241378655,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 HA1E 24H-resveratrol-10.0",
+    "rank": 2124,
+    "p_value": 0.295881022173655,
+    "z_score": 1.8704673075092795,
+    "combined_score": 2.2778510797554494,
+    "overlap_genes": [
+      "KCND3",
+      "AMPD2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC515 6H-calcitriol-1.0",
+    "rank": 2162,
+    "p_value": 0.29599901417479046,
+    "z_score": 2.952359550561798,
+    "combined_score": 3.5942000225653534,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HEPG2 24H-sirolimus-3.33",
+    "rank": 2188,
+    "p_value": 0.29599901417479046,
+    "z_score": 2.952359550561798,
+    "combined_score": 3.5942000225653534,
+    "overlap_genes": [
+      "MAST2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEC108 6H-curcumin-48.0",
+    "rank": 2218,
+    "p_value": 0.3008347037441557,
+    "z_score": 1.8469924812030074,
+    "combined_score": 2.21859688132953,
+    "overlap_genes": [
+      "EN1",
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEPG2 6H-temsirolimus [ci779]-10.0",
+    "rank": 2299,
+    "p_value": 0.3057825699700753,
+    "z_score": 1.8240972802376312,
+    "combined_score": 2.1613381825951055,
+    "overlap_genes": [
+      "CASKIN2",
+      "FFAR2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SNUC4 6H-curcumin-48.0",
+    "rank": 2304,
+    "p_value": 0.3057825699700753,
+    "z_score": 1.8240972802376312,
+    "combined_score": 2.1613381825951055,
+    "overlap_genes": [
+      "ARFIP2",
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 HEPG2 6H-quercetin-10.0",
+    "rank": 2342,
+    "p_value": 0.3107238893405226,
+    "z_score": 1.8017604988079956,
+    "combined_score": 2.1059887982330268,
+    "overlap_genes": [
+      "FOXG1",
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 MCF7 24H-sirolimus-10",
+    "rank": 2407,
+    "p_value": 0.31476449758861835,
+    "z_score": 2.7333888195311418,
+    "combined_score": 3.159607631879772,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HA1E 24H-dexamethasone acetate-10.0",
+    "rank": 2854,
+    "p_value": 0.35081349172644555,
+    "z_score": 2.3802102210945995,
+    "combined_score": 2.4932715379484423,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC020 HT29 6H-metformin hydrochloride-10.0",
+    "rank": 2906,
+    "p_value": 0.35081349172644555,
+    "z_score": 2.3802102210945995,
+    "combined_score": 2.4932715379484423,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HA1E 24H-sirolimus-1.11",
+    "rank": 3012,
+    "p_value": 0.35952651698861476,
+    "z_score": 2.3057116104868913,
+    "combined_score": 2.3586676817348438,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 A549 24H-sirolimus-10.0",
+    "rank": 3221,
+    "p_value": 0.374067991818266,
+    "z_score": 1.5541749109616145,
+    "combined_score": 1.5282477016187235,
+    "overlap_genes": [
+      "COL2A1",
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 RKO 6H-curcumin-48.0",
+    "rank": 3310,
+    "p_value": 0.37885160243162613,
+    "z_score": 1.537907268170426,
+    "combined_score": 1.4927092514594649,
+    "overlap_genes": [
+      "KCND3",
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MCF7 24H-sirolimus-10.0",
+    "rank": 3381,
+    "p_value": 0.38497271419958273,
+    "z_score": 2.1077581594435526,
+    "combined_score": 2.0120297264861393,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW620 6H-temsirolimus [ci779]-10.0",
+    "rank": 3383,
+    "p_value": 0.38497271419958273,
+    "z_score": 2.1077581594435526,
+    "combined_score": 2.0120297264861393,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 A375 6H-isotretinoin-10.0",
+    "rank": 3520,
+    "p_value": 0.3932289260705844,
+    "z_score": 2.049105285060341,
+    "combined_score": 1.9125597275076083,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 HA1E 24H-sirolimus-10",
+    "rank": 3557,
+    "p_value": 0.3932289260705844,
+    "z_score": 2.049105285060341,
+    "combined_score": 1.9125597275076083,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC020 HA1E 6H-budesonide-10.0",
+    "rank": 3638,
+    "p_value": 0.4013747132249425,
+    "z_score": 1.9936228363194655,
+    "combined_score": 1.8198982254848648,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPD002 MCF7 6H-n-acetyl-dl-homocysteine thiolactone-10.0",
+    "rank": 4017,
+    "p_value": 0.42516414305413847,
+    "z_score": 1.8438202247191011,
+    "combined_score": 1.576982498499676,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-1.11",
+    "rank": 4028,
+    "p_value": 0.42516414305413847,
+    "z_score": 1.8438202247191011,
+    "combined_score": 1.576982498499676,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 A375 6H-sirolimus-10.0",
+    "rank": 4246,
+    "p_value": 0.440498099619701,
+    "z_score": 1.755840913144284,
+    "combined_score": 1.439524676241562,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 COV644 6H-curcumin-48.0",
+    "rank": 4252,
+    "p_value": 0.440498099619701,
+    "z_score": 1.755840913144284,
+    "combined_score": 1.439524676241562,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC011 PC3 6H-calcitriol-10.0",
+    "rank": 4266,
+    "p_value": 0.440498099619701,
+    "z_score": 1.755840913144284,
+    "combined_score": 1.439524676241562,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 CL34 6H-curcumin-48.0",
+    "rank": 4734,
+    "p_value": 0.46639152631161435,
+    "z_score": 1.2825760052304676,
+    "combined_score": 0.9782589558536365,
+    "overlap_genes": [
+      "HHEX",
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 A375 24H-budesonide-10.0",
+    "rank": 4771,
+    "p_value": 0.4699541425509541,
+    "z_score": 1.6028334147532974,
+    "combined_score": 1.2103318215223717,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 PC3 24H-sirolimus-3.33",
+    "rank": 4843,
+    "p_value": 0.4699541425509541,
+    "z_score": 1.6028334147532974,
+    "combined_score": 1.2103318215223717,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW948 6H-rapamycin-11.1",
+    "rank": 4916,
+    "p_value": 0.4770734718797215,
+    "z_score": 1.5686508885170134,
+    "combined_score": 1.1609346333829171,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 HT29 6H-sirolimus-10.0",
+    "rank": 4942,
+    "p_value": 0.4770734718797215,
+    "z_score": 1.5686508885170134,
+    "combined_score": 1.1609346333829171,
+    "overlap_genes": [
+      "CASQ2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HA1E 24H-sirolimus-3.33",
+    "rank": 4963,
+    "p_value": 0.4770734718797215,
+    "z_score": 1.5686508885170134,
+    "combined_score": 1.1609346333829171,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 A549 24H-isotretinoin-10.0",
+    "rank": 5055,
+    "p_value": 0.48409752946656115,
+    "z_score": 1.535892634207241,
+    "combined_score": 1.114242317437051,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 MCF7 6H-tretinoin-10.0",
+    "rank": 5164,
+    "p_value": 0.4910275855522238,
+    "z_score": 1.504471451501949,
+    "combined_score": 1.0700627976731167,
+    "overlap_genes": [
+      "CST8"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-10",
+    "rank": 5446,
+    "p_value": 0.504610689821788,
+    "z_score": 1.4453256958213998,
+    "combined_score": 0.9885566097179466,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 SKBR3 3H-sirolimus-0.12",
+    "rank": 5944,
+    "p_value": 0.5307029241650891,
+    "z_score": 1.3399387129724207,
+    "combined_score": 0.8489220294858448,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 24H-calcitriol-1.0",
+    "rank": 5983,
+    "p_value": 0.5370091462351906,
+    "z_score": 1.315944355270198,
+    "combined_score": 0.8181754441574605,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC515 24H-curcumin-48.0",
+    "rank": 6082,
+    "p_value": 0.5422562635638457,
+    "z_score": 1.1079767086890158,
+    "combined_score": 0.6781001140646666,
+    "overlap_genes": [
+      "KCND3",
+      "CST8"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC002 HA1E 24H-isotretinoin-10.0",
+    "rank": 6105,
+    "p_value": 0.5432309394975114,
+    "z_score": 1.2927919048557723,
+    "combined_score": 0.7888884412784973,
+    "overlap_genes": [
+      "CHRNA2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW948 6H-temsirolimus [ci779]-10.0",
+    "rank": 6236,
+    "p_value": 0.5493694302756665,
+    "z_score": 1.270437814800465,
+    "combined_score": 0.7609721132113423,
+    "overlap_genes": [
+      "INHBE"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 6H-temsirolimus [ci779]-10.0",
+    "rank": 6359,
+    "p_value": 0.5554257295979378,
+    "z_score": 1.2488414905097442,
+    "combined_score": 0.7343442464790751,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW480 6H-curcumin-48.0",
+    "rank": 6363,
+    "p_value": 0.5554257295979378,
+    "z_score": 1.2488414905097442,
+    "combined_score": 0.7343442464790751,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 PC3 24H-sirolimus-10",
+    "rank": 6420,
+    "p_value": 0.5554257295979378,
+    "z_score": 1.2488414905097442,
+    "combined_score": 0.7343442464790751,
+    "overlap_genes": [
+      "AQP1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-3.33",
+    "rank": 6756,
+    "p_value": 0.5731123709520249,
+    "z_score": 1.1882324513712699,
+    "combined_score": 0.6614574838088704,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 24H-curcumin-48.0",
+    "rank": 6791,
+    "p_value": 0.576897559213019,
+    "z_score": 1.0040480274442538,
+    "combined_score": 0.5523173503134093,
+    "overlap_genes": [
+      "EN1",
+      "AQP1",
+      "INHBE"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH2073 6H-temsirolimus [ci779]-10.0",
+    "rank": 6934,
+    "p_value": 0.5845122246075424,
+    "z_score": 1.1509831460674158,
+    "combined_score": 0.6180521485947744,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 BT20 24H-sirolimus-0.37",
+    "rank": 6991,
+    "p_value": 0.5845122246075424,
+    "z_score": 1.1509831460674158,
+    "combined_score": 0.6180521485947744,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 WSUDLCL2 6H-temsirolimus [ci779]-10.0",
+    "rank": 7058,
+    "p_value": 0.590097897391674,
+    "z_score": 1.1332180927686546,
+    "combined_score": 0.5977349528978323,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HA1E 6H-curcumin-48.0",
+    "rank": 7139,
+    "p_value": 0.5956087544355895,
+    "z_score": 1.1159913744183407,
+    "combined_score": 0.5782746786892896,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEPG2 6H-sirolimus-10.0",
+    "rank": 7260,
+    "p_value": 0.6010457941833067,
+    "z_score": 1.0992788864665437,
+    "combined_score": 0.5596254583050985,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 A549 24H-sirolimus-0.04",
+    "rank": 7323,
+    "p_value": 0.6010457941833067,
+    "z_score": 1.0992788864665437,
+    "combined_score": 0.5596254583050985,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-temsirolimus [ci779]-10.0",
+    "rank": 7381,
+    "p_value": 0.606410001774382,
+    "z_score": 1.0830579422780349,
+    "combined_score": 0.5417444467066235,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW948 6H-sirolimus-10.0",
+    "rank": 7498,
+    "p_value": 0.6117023491567862,
+    "z_score": 1.0673071703848451,
+    "combined_score": 0.5245915841693444,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-0.04",
+    "rank": 7555,
+    "p_value": 0.6117023491567862,
+    "z_score": 1.0673071703848451,
+    "combined_score": 0.5245915841693444,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A549 24H-sirolimus-10.0",
+    "rank": 7585,
+    "p_value": 0.6169237954701325,
+    "z_score": 1.0520064205457464,
+    "combined_score": 0.5081293801275196,
+    "overlap_genes": [
+      "FFAR2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC15 6H-rapamycin-11.1",
+    "rank": 7592,
+    "p_value": 0.6169237954701325,
+    "z_score": 1.0520064205457464,
+    "combined_score": 0.5081293801275196,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MDST8 6H-sirolimus-10.0",
+    "rank": 7602,
+    "p_value": 0.6169237954701325,
+    "z_score": 1.0520064205457464,
+    "combined_score": 0.5081293801275196,
+    "overlap_genes": [
+      "FFAR2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 VCAP 6H-dexamethasone-10.0",
+    "rank": 7821,
+    "p_value": 0.6271577576981391,
+    "z_score": 1.0226799833541407,
+    "combined_score": 0.4771386715095065,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW948 6H-curcumin-48.0",
+    "rank": 7880,
+    "p_value": 0.6321721287742513,
+    "z_score": 1.0086193627828228,
+    "combined_score": 0.46254635057936705,
+    "overlap_genes": [
+      "HIST1H2BC"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 24H-sirolimus-1.11",
+    "rank": 7915,
+    "p_value": 0.6321721287742513,
+    "z_score": 1.0086193627828228,
+    "combined_score": 0.46254635057936705,
+    "overlap_genes": [
+      "COL8A2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-0.12",
+    "rank": 7917,
+    "p_value": 0.6321721287742513,
+    "z_score": 1.0086193627828228,
+    "combined_score": 0.46254635057936705,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 A375 24H-sirolimus-0.37",
+    "rank": 8010,
+    "p_value": 0.6371193091768284,
+    "z_score": 0.9949387589837028,
+    "combined_score": 0.44851674333678593,
+    "overlap_genes": [
+      "COL11A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 LNCAP 24H-sirolimus-10",
+    "rank": 8014,
+    "p_value": 0.6371193091768284,
+    "z_score": 0.9949387589837028,
+    "combined_score": 0.44851674333678593,
+    "overlap_genes": [
+      "COL2A1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 VCAP 6H-curcumin-48.0",
+    "rank": 8416,
+    "p_value": 0.6577735633153111,
+    "z_score": 0.8916381863750285,
+    "combined_score": 0.37350236398947906,
+    "overlap_genes": [
+      "KCND3",
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 EFO27 6H-curcumin-48.0",
+    "rank": 8436,
+    "p_value": 0.660878334139661,
+    "z_score": 0.9317309059877684,
+    "combined_score": 0.3859094492384965,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A375 24H-curcumin-48.0",
+    "rank": 8512,
+    "p_value": 0.6641609487797212,
+    "z_score": 0.8808698392688308,
+    "combined_score": 0.3604790391914294,
+    "overlap_genes": [
+      "KCND3",
+      "HIST1H2BC"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 OV7 6H-curcumin-48.0",
+    "rank": 8795,
+    "p_value": 0.6787644988123295,
+    "z_score": 0.8866477144533189,
+    "combined_score": 0.3435591846390922,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A673 6H-curcumin-48.0",
+    "rank": 9155,
+    "p_value": 0.6957106294840026,
+    "z_score": 0.8457101037496233,
+    "combined_score": 0.3068417807836807,
+    "overlap_genes": [
+      "HIST1H2BC"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 A549 24H-budesonide-10.0",
+    "rank": 9245,
+    "p_value": 0.6998061084752017,
+    "z_score": 0.8360572012257406,
+    "combined_score": 0.2984322651770353,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PL21 6H-temsirolimus [ci779]-10.0",
+    "rank": 9345,
+    "p_value": 0.7038466682538894,
+    "z_score": 0.8266212178596979,
+    "combined_score": 0.2903050297371193,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 LOVO 6H-curcumin-48.0",
+    "rank": 9430,
+    "p_value": 0.7078330426808687,
+    "z_score": 0.8173949230129005,
+    "combined_score": 0.28244838677423584,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MCF7 6H-curcumin-48.0",
+    "rank": 9432,
+    "p_value": 0.7078330426808687,
+    "z_score": 0.8173949230129005,
+    "combined_score": 0.28244838677423584,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 A549 24H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 9580,
+    "p_value": 0.7156461214988344,
+    "z_score": 0.7995440482006188,
+    "combined_score": 0.26750303477803605,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-sirolimus-10.0",
+    "rank": 9951,
+    "p_value": 0.73428008702057,
+    "z_score": 0.7581373798216148,
+    "combined_score": 0.2341618995538187,
+    "overlap_genes": [
+      "ASH1L"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW620 6H-curcumin-48.0",
+    "rank": 9975,
+    "p_value": 0.73428008702057,
+    "z_score": 0.7581373798216148,
+    "combined_score": 0.2341618995538187,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 PC3 24H-sirolimus-10",
+    "rank": 10013,
+    "p_value": 0.73428008702057,
+    "z_score": 0.7581373798216148,
+    "combined_score": 0.2341618995538187,
+    "overlap_genes": [
+      "CPB1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-budesonide-10.0",
+    "rank": 10166,
+    "p_value": 0.744871190955676,
+    "z_score": 0.7352808988764045,
+    "combined_score": 0.21657255766520678,
+    "overlap_genes": [
+      "ASMT"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH1694 6H-curcumin-48.0",
+    "rank": 10240,
+    "p_value": 0.7483072492825329,
+    "z_score": 0.7279638076167168,
+    "combined_score": 0.211067008793069,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-dexamethasone-10.0",
+    "rank": 10307,
+    "p_value": 0.7516972009505742,
+    "z_score": 0.7207901887346699,
+    "combined_score": 0.2057291569981272,
+    "overlap_genes": [
+      "LRIT1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCT116 6H-sirolimus-10.0",
+    "rank": 10313,
+    "p_value": 0.7516972009505742,
+    "z_score": 0.7207901887346699,
+    "combined_score": 0.2057291569981272,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MCF7 24H-curcumin-48.0",
+    "rank": 10499,
+    "p_value": 0.7586197870055279,
+    "z_score": 0.7305951445778626,
+    "combined_score": 0.20183024494156085,
+    "overlap_genes": [
+      "EN1",
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 LOVO 6H-sirolimus-10.0",
+    "rank": 10588,
+    "p_value": 0.7648081469952466,
+    "z_score": 0.6934492262030952,
+    "combined_score": 0.18593472468168232,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 THP1 6H-temsirolimus [ci779]-10.0",
+    "rank": 10599,
+    "p_value": 0.7648081469952466,
+    "z_score": 0.6934492262030952,
+    "combined_score": 0.18593472468168232,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 HCC515 6H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 10803,
+    "p_value": 0.7772292468003017,
+    "z_score": 0.6680966973101805,
+    "combined_score": 0.16837368369338096,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCT116 6H-curcumin-48.0",
+    "rank": 10860,
+    "p_value": 0.780231014032979,
+    "z_score": 0.6620440665384486,
+    "combined_score": 0.16429631891096502,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SKMEL28 6H-sirolimus-10.0",
+    "rank": 11277,
+    "p_value": 0.8028387602107107,
+    "z_score": 0.6172851162937085,
+    "combined_score": 0.13555666459313231,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH508 6H-curcumin-48.0",
+    "rank": 11437,
+    "p_value": 0.8132580176257662,
+    "z_score": 0.5970890045979111,
+    "combined_score": 0.12342239025405172,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 U937 6H-curcumin-48.0",
+    "rank": 11443,
+    "p_value": 0.8132580176257662,
+    "z_score": 0.5970890045979111,
+    "combined_score": 0.12342239025405172,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 AGS 6H-curcumin-48.0",
+    "rank": 11593,
+    "p_value": 0.8231285951203948,
+    "z_score": 0.5781650889144475,
+    "combined_score": 0.11253569422793837,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 U937 6H-sirolimus-10.0",
+    "rank": 11758,
+    "p_value": 0.8324792836586437,
+    "z_score": 0.5603968322040198,
+    "combined_score": 0.10274704545258596,
+    "overlap_genes": [
+      "HHEX"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC016 A549 6H-budesonide-10.0",
+    "rank": 11764,
+    "p_value": 0.8324792836586437,
+    "z_score": 0.5603968322040198,
+    "combined_score": 0.10274704545258596,
+    "overlap_genes": [
+      "CASKIN2"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 6H-curcumin-48.0",
+    "rank": 12041,
+    "p_value": 0.8517565166435405,
+    "z_score": 0.5241305510968433,
+    "combined_score": 0.08409914302964691,
+    "overlap_genes": [
+      "EN1"
+    ],
+    "adj_p": 0.915058410227227
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 24H-sirolimus-10",
+    "rank": 12456,
+    "p_value": 0.8839306967073044,
+    "z_score": 0.46399279381785424,
+    "combined_score": 0.057245861124379495,
+    "overlap_genes": [
+      "FOXG1"
+    ],
+    "adj_p": 0.9211129785628577
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 THP1 6H-curcumin-48.0",
+    "rank": 12481,
+    "p_value": 0.8870451337657007,
+    "z_score": 0.45814606741573033,
+    "combined_score": 0.054913119328575594,
+    "overlap_genes": [
+      "HIST1H2BC"
+    ],
+    "adj_p": 0.9222115074012943
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-curcumin-48.0",
+    "rank": 12703,
+    "p_value": 0.9091421295010012,
+    "z_score": 0.4161559414368403,
+    "combined_score": 0.03964045101971527,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9282345432635281
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 VCAP 24H-curcumin-48.0",
+    "rank": 12820,
+    "p_value": 0.9238814237758406,
+    "z_score": 0.3872738442026831,
+    "combined_score": 0.03066106851478979,
+    "overlap_genes": [
+      "RGS9"
+    ],
+    "adj_p": 0.9351921991604949
+  },
+  {
+    "query": "PCD-up_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HA1E 24H-curcumin-48.0",
+    "rank": 12825,
+    "p_value": 0.9249111684893997,
+    "z_score": 0.3852158486102898,
+    "combined_score": 0.030069016976712118,
+    "overlap_genes": [
+      "KCND3"
+    ],
+    "adj_p": 0.9360885605926164
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC010 VCAP 24H-resveratrol-10.0",
+    "rank": 37,
+    "p_value": 0.00748674912805271,
+    "z_score": 8.192355629414209,
+    "combined_score": 40.09847265876338,
+    "overlap_genes": [
+      "PAX8",
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH2073 6H-curcumin-48.0",
+    "rank": 45,
+    "p_value": 0.008711710464019293,
+    "z_score": 4.1877264010227995,
+    "combined_score": 19.862751188533757,
+    "overlap_genes": [
+      "PAX8",
+      "IRS4",
+      "ERG",
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 EFO27 6H-curcumin-48.0",
+    "rank": 112,
+    "p_value": 0.018456834118502526,
+    "z_score": 4.174872665534805,
+    "combined_score": 16.667429995341394,
+    "overlap_genes": [
+      "CHRNA3",
+      "PAX8",
+      "KLK13",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 LOVO 6H-curcumin-48.0",
+    "rank": 176,
+    "p_value": 0.028053769801439858,
+    "z_score": 3.6449758991472008,
+    "combined_score": 13.025803461100827,
+    "overlap_genes": [
+      "PAX8",
+      "IRS4",
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH596 6H-curcumin-48.0",
+    "rank": 275,
+    "p_value": 0.04168588741465319,
+    "z_score": 4.090153718321562,
+    "combined_score": 12.996842346741408,
+    "overlap_genes": [
+      "PAX8",
+      "ARIH1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 PC3 24H-tretinoin-10.0",
+    "rank": 282,
+    "p_value": 0.04214244417240542,
+    "z_score": 6.574666666666666,
+    "combined_score": 20.819996085493898,
+    "overlap_genes": [
+      "PAX8",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 THP1 6H-temsirolimus [ci779]-10.0",
+    "rank": 318,
+    "p_value": 0.04647795195546813,
+    "z_score": 3.0762605699968684,
+    "combined_score": 9.440358391766843,
+    "overlap_genes": [
+      "PAX8",
+      "ERG",
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 MCF7 24H-sirolimus-1.11",
+    "rank": 499,
+    "p_value": 0.06816417994902031,
+    "z_score": 4.929,
+    "combined_score": 13.238486002822686,
+    "overlap_genes": [
+      "GSTM3",
+      "CADM1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 LNCAP 24H-sirolimus-10",
+    "rank": 510,
+    "p_value": 0.06895551020848817,
+    "z_score": 3.2925033467202143,
+    "combined_score": 8.805121161273313,
+    "overlap_genes": [
+      "AKR1B10",
+      "HLA-C",
+      "PFDN4"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 THP1 6H-sirolimus-10.0",
+    "rank": 538,
+    "p_value": 0.07527876771688959,
+    "z_score": 2.5946589106292968,
+    "combined_score": 6.71123356532008,
+    "overlap_genes": [
+      "PAX8",
+      "ZNF813",
+      "ERG",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 HA1E 24H-resveratrol-10.0",
+    "rank": 604,
+    "p_value": 0.0825809220733123,
+    "z_score": 3.038307074451653,
+    "combined_score": 7.577466725323179,
+    "overlap_genes": [
+      "CYP39A1",
+      "ZNF813",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 OV7 6H-curcumin-48.0",
+    "rank": 680,
+    "p_value": 0.08979447977814314,
+    "z_score": 2.925330953443403,
+    "combined_score": 7.050725625060495,
+    "overlap_genes": [
+      "SERPINB3",
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 PC3 24H-isotretinoin-10.0",
+    "rank": 683,
+    "p_value": 0.08979447977814314,
+    "z_score": 2.925330953443403,
+    "combined_score": 7.050725625060495,
+    "overlap_genes": [
+      "GRM4",
+      "PAX8",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPD002 MCF7 6H-n-acetyl-dl-homocysteine thiolactone-10.0",
+    "rank": 727,
+    "p_value": 0.09416713199420938,
+    "z_score": 4.042871794871795,
+    "combined_score": 9.552028809211736,
+    "overlap_genes": [
+      "GRM4",
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 COV644 6H-curcumin-48.0",
+    "rank": 803,
+    "p_value": 0.1020484534145066,
+    "z_score": 3.8452682926829267,
+    "combined_score": 8.776084836997166,
+    "overlap_genes": [
+      "ERG",
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP009 MCF7 24H-sirolimus-10",
+    "rank": 930,
+    "p_value": 0.1141927466343748,
+    "z_score": 3.5825454545454547,
+    "combined_score": 7.773648943224575,
+    "overlap_genes": [
+      "GSTM3",
+      "RASGRP1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 WSUDLCL2 6H-curcumin-48.0",
+    "rank": 977,
+    "p_value": 0.11833277225224627,
+    "z_score": 2.5741225772655842,
+    "combined_score": 5.493832744833064,
+    "overlap_genes": [
+      "PAX8",
+      "ARIH1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH1694 6H-curcumin-48.0",
+    "rank": 1182,
+    "p_value": 0.13802373454143704,
+    "z_score": 2.391262017768042,
+    "combined_score": 4.735487001012679,
+    "overlap_genes": [
+      "PAX8",
+      "ERG",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP009 HT29 24H-sirolimus-10",
+    "rank": 1200,
+    "p_value": 0.13947881452052255,
+    "z_score": 3.15168,
+    "combined_score": 6.208313388438752,
+    "overlap_genes": [
+      "SEMA5A",
+      "CADM1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 A549 6H-quercetin-10.0",
+    "rank": 1530,
+    "p_value": 0.17479072077892985,
+    "z_score": 2.7158620689655173,
+    "combined_score": 4.736914015112065,
+    "overlap_genes": [
+      "ARIH1",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 HCC515 24H-sirolimus-10",
+    "rank": 1591,
+    "p_value": 0.1793027507024527,
+    "z_score": 2.669694915254237,
+    "combined_score": 4.588350074668521,
+    "overlap_genes": [
+      "GSTM3",
+      "SLC39A8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A375 24H-sirolimus-10.0",
+    "rank": 1734,
+    "p_value": 0.193001833316454,
+    "z_score": 2.021521985377407,
+    "combined_score": 3.3255160445228684,
+    "overlap_genes": [
+      "PAX8",
+      "IRS4",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SKMEL28 6H-sirolimus-10.0",
+    "rank": 1735,
+    "p_value": 0.193001833316454,
+    "z_score": 2.021521985377407,
+    "combined_score": 3.3255160445228684,
+    "overlap_genes": [
+      "PAX8",
+      "ERG",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 U937 6H-curcumin-48.0",
+    "rank": 1867,
+    "p_value": 0.20589369825361217,
+    "z_score": 1.9542965249427462,
+    "combined_score": 3.088560986690358,
+    "overlap_genes": [
+      "PAX8",
+      "ERG",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEPG2 6H-sirolimus-10.0",
+    "rank": 1909,
+    "p_value": 0.21131921596138048,
+    "z_score": 2.3856969696969696,
+    "combined_score": 3.70829257881303,
+    "overlap_genes": [
+      "KLK13",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-BRD-K47635719 (dexamethasone acetate)-10.0",
+    "rank": 1981,
+    "p_value": 0.2156885743742091,
+    "z_score": 1.9067236688690246,
+    "combined_score": 2.9247609923668403,
+    "overlap_genes": [
+      "ERG",
+      "LIN7C",
+      "PRDM10"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-temsirolimus [ci779]-10.0",
+    "rank": 1995,
+    "p_value": 0.21594179373838163,
+    "z_score": 2.3499701492537315,
+    "combined_score": 3.601908241834504,
+    "overlap_genes": [
+      "GRM4",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 BT20 24H-sirolimus-1.11",
+    "rank": 2011,
+    "p_value": 0.21594179373838163,
+    "z_score": 2.3499701492537315,
+    "combined_score": 3.601908241834504,
+    "overlap_genes": [
+      "CDH11",
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW948 6H-curcumin-48.0",
+    "rank": 2228,
+    "p_value": 0.23917298851992844,
+    "z_score": 2.1862222222222223,
+    "combined_score": 3.127539961981978,
+    "overlap_genes": [
+      "ARIH1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 VCAP 24H-resveratrol-10.0",
+    "rank": 2247,
+    "p_value": 0.24354183787196806,
+    "z_score": 3.7425535951432365,
+    "combined_score": 5.286231699012547,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 A549 24H-dexamethasone-10.0",
+    "rank": 2314,
+    "p_value": 0.24850369124954821,
+    "z_score": 2.126918918918919,
+    "combined_score": 2.9613040624607336,
+    "overlap_genes": [
+      "ZNF813",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 VCAP 24H-tretinoin-10.0",
+    "rank": 2315,
+    "p_value": 0.24850369124954821,
+    "z_score": 2.126918918918919,
+    "combined_score": 2.9613040624607336,
+    "overlap_genes": [
+      "ERBB2IP",
+      "FOLH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 MCF7 6H-diclofenac sodium-10.0",
+    "rank": 2455,
+    "p_value": 0.2625056596400677,
+    "z_score": 3.416767711761649,
+    "combined_score": 4.569867487945139,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SKLU1 6H-sirolimus-10.0",
+    "rank": 2507,
+    "p_value": 0.26251941483422225,
+    "z_score": 2.0437402597402596,
+    "combined_score": 2.7333600228370907,
+    "overlap_genes": [
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 3H-sirolimus-1.11",
+    "rank": 2611,
+    "p_value": 0.2718092387571449,
+    "z_score": 3.2742363877822047,
+    "combined_score": 4.2651997037589915,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SNUC4 6H-curcumin-48.0",
+    "rank": 2745,
+    "p_value": 0.28121095907606347,
+    "z_score": 1.9424197530864198,
+    "combined_score": 2.464251105818692,
+    "overlap_genes": [
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 HEPG2 6H-quercetin-10.0",
+    "rank": 2776,
+    "p_value": 0.28587965369452384,
+    "z_score": 1.9186341463414633,
+    "combined_score": 2.402483647582645,
+    "overlap_genes": [
+      "ARIH1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PL21 6H-curcumin-48.0",
+    "rank": 2999,
+    "p_value": 0.3045172839376693,
+    "z_score": 1.8290232558139534,
+    "combined_score": 2.1747588244586966,
+    "overlap_genes": [
+      "ARIH1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP009 HCC515 24H-sirolimus-10",
+    "rank": 3188,
+    "p_value": 0.3166025361488444,
+    "z_score": 2.7090259651050967,
+    "combined_score": 3.1156727624395613,
+    "overlap_genes": [
+      "CDH11"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A673 6H-temsirolimus [ci779]-10.0",
+    "rank": 3482,
+    "p_value": 0.33689582429988063,
+    "z_score": 1.690752688172043,
+    "combined_score": 1.8395076849065788,
+    "overlap_genes": [
+      "DNAH17",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 HT29 6H-tretinoin-10.0",
+    "rank": 3574,
+    "p_value": 0.34214989522999417,
+    "z_score": 2.4546812749003983,
+    "combined_score": 2.632661249142778,
+    "overlap_genes": [
+      "KLK13"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW620 6H-curcumin-48.0",
+    "rank": 3743,
+    "p_value": 0.3506411200469767,
+    "z_score": 1.6376666666666666,
+    "combined_score": 1.716261612143512,
+    "overlap_genes": [
+      "PAX8",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 PC3 24H-sirolimus-10",
+    "rank": 3763,
+    "p_value": 0.3506411200469767,
+    "z_score": 1.6376666666666666,
+    "combined_score": 1.716261612143512,
+    "overlap_genes": [
+      "CDH11",
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 VCAP 6H-curcumin-48.0",
+    "rank": 3765,
+    "p_value": 0.35178024967708266,
+    "z_score": 1.438730531883632,
+    "combined_score": 1.50311169317221,
+    "overlap_genes": [
+      "ERG",
+      "KLK8",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MCF7 24H-sirolimus-10.0",
+    "rank": 3953,
+    "p_value": 0.3667458672961938,
+    "z_score": 2.243938531587934,
+    "combined_score": 2.2508636186673487,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 3H-sirolimus-10",
+    "rank": 4007,
+    "p_value": 0.3667458672961938,
+    "z_score": 2.243938531587934,
+    "combined_score": 2.2508636186673487,
+    "overlap_genes": [
+      "CADM1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 6H-budesonide-10.0",
+    "rank": 4304,
+    "p_value": 0.38678488846064435,
+    "z_score": 1.511076923076923,
+    "combined_score": 1.4353516970182447,
+    "overlap_genes": [
+      "DEFB1",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC001 HA1E 6H-resveratrol-10.0",
+    "rank": 4327,
+    "p_value": 0.3904257460631039,
+    "z_score": 2.0664709582721743,
+    "combined_score": 1.9435520555018446,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 LOVO 6H-sirolimus-10.0",
+    "rank": 4392,
+    "p_value": 0.3912432282641479,
+    "z_score": 1.4966095238095238,
+    "combined_score": 1.404457057358152,
+    "overlap_genes": [
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 HCC515 6H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 4665,
+    "p_value": 0.40892823825155405,
+    "z_score": 1.4413944954128441,
+    "combined_score": 1.288917436246315,
+    "overlap_genes": [
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP008 HA1E 24H-sirolimus-10",
+    "rank": 4830,
+    "p_value": 0.42063244922382603,
+    "z_score": 1.8692847656991083,
+    "combined_score": 1.6187928847936228,
+    "overlap_genes": [
+      "RASGRP1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HA1E 6H-sirolimus-10.0",
+    "rank": 4833,
+    "p_value": 0.42063244922382603,
+    "z_score": 1.8692847656991083,
+    "combined_score": 1.6187928847936228,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP008 PC3 24H-resveratrol-10",
+    "rank": 4879,
+    "p_value": 0.42063244922382603,
+    "z_score": 1.8692847656991083,
+    "combined_score": 1.6187928847936228,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP008 HCC515 24H-sirolimus-10",
+    "rank": 4883,
+    "p_value": 0.42063244922382603,
+    "z_score": 1.8692847656991083,
+    "combined_score": 1.6187928847936228,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HA1E 24H-sirolimus-10",
+    "rank": 4890,
+    "p_value": 0.42063244922382603,
+    "z_score": 1.8692847656991083,
+    "combined_score": 1.6187928847936228,
+    "overlap_genes": [
+      "IL2RG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEPG2 6H-rapamycin-11.1",
+    "rank": 4970,
+    "p_value": 0.4279481949846081,
+    "z_score": 1.8257203743166868,
+    "combined_score": 1.5495858830857483,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 VCAP 24H-dexamethasone-10.0",
+    "rank": 5062,
+    "p_value": 0.4306770046564,
+    "z_score": 1.3778245614035087,
+    "combined_score": 1.1606751103023536,
+    "overlap_genes": [
+      "GRM4",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 A549 24H-sirolimus-1.11",
+    "rank": 5156,
+    "p_value": 0.43517192560468554,
+    "z_score": 1.784136182542557,
+    "combined_score": 1.4844264507425515,
+    "overlap_genes": [
+      "SERPINB3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HA1E 24H-sirolimus-0.12",
+    "rank": 5278,
+    "p_value": 0.4423047939650767,
+    "z_score": 1.7444001770694997,
+    "combined_score": 1.4230050075696294,
+    "overlap_genes": [
+      "SEMA5A"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HEPG2 24H-sirolimus-0.37",
+    "rank": 5280,
+    "p_value": 0.4423047939650767,
+    "z_score": 1.7444001770694997,
+    "combined_score": 1.4230050075696294,
+    "overlap_genes": [
+      "CDH11"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A549 6H-curcumin-48.0",
+    "rank": 5663,
+    "p_value": 0.4699502001103142,
+    "z_score": 1.6016749329213757,
+    "combined_score": 1.2094704650298027,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HA1E 24H-sirolimus-0.37",
+    "rank": 5707,
+    "p_value": 0.4699502001103142,
+    "z_score": 1.6016749329213757,
+    "combined_score": 1.2094704650298027,
+    "overlap_genes": [
+      "IL2RG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 LNCAP 24H-sirolimus-0.12",
+    "rank": 5715,
+    "p_value": 0.4699502001103142,
+    "z_score": 1.6016749329213757,
+    "combined_score": 1.2094704650298027,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-10",
+    "rank": 5948,
+    "p_value": 0.4832566610331874,
+    "z_score": 1.5387079134442623,
+    "combined_score": 1.118959745957597,
+    "overlap_genes": [
+      "SF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC011 PC3 24H-calcitriol-10.0",
+    "rank": 6152,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 HT29 24H-sirolimus-10",
+    "rank": 6218,
+    "p_value": 0.4962303657286522,
+    "z_score": 1.4804931218522137,
+    "combined_score": 1.0374037571928558,
+    "overlap_genes": [
+      "DDX60"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 U937 6H-sirolimus-10.0",
+    "rank": 6231,
+    "p_value": 0.4972481114050321,
+    "z_score": 1.2072615384615384,
+    "combined_score": 0.8434727823893524,
+    "overlap_genes": [
+      "IRS4",
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MCF7 6H-temsirolimus [ci779]-10.0",
+    "rank": 6281,
+    "p_value": 0.5025950328787242,
+    "z_score": 1.4530028036004132,
+    "combined_score": 0.9996231187259461,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC014 HCC515 6H-dexamethasone-10.0",
+    "rank": 6307,
+    "p_value": 0.5025950328787242,
+    "z_score": 1.4530028036004132,
+    "combined_score": 0.9996231187259461,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW620 6H-sirolimus-10.0",
+    "rank": 6399,
+    "p_value": 0.5088796031261877,
+    "z_score": 1.4265121332850417,
+    "combined_score": 0.963671465080255,
+    "overlap_genes": [
+      "DRD3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 SKBR3 3H-sirolimus-0.12",
+    "rank": 6449,
+    "p_value": 0.5088796031261877,
+    "z_score": 1.4265121332850417,
+    "combined_score": 0.963671465080255,
+    "overlap_genes": [
+      "DDX58"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC017 A549 24H-dexamethasone acetate-10.0",
+    "rank": 6545,
+    "p_value": 0.5150850804547993,
+    "z_score": 1.4009675583380763,
+    "combined_score": 0.9294343627116923,
+    "overlap_genes": [
+      "ZNF813"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC016 A549 24H-budesonide-10.0",
+    "rank": 6660,
+    "p_value": 0.5212124564141375,
+    "z_score": 1.376319284266443,
+    "combined_score": 0.8968062523501614,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC515 6H-curcumin-48.0",
+    "rank": 6736,
+    "p_value": 0.527262710118755,
+    "z_score": 1.3525209506800384,
+    "combined_score": 0.8656896276936448,
+    "overlap_genes": [
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SW480 6H-curcumin-48.0",
+    "rank": 6880,
+    "p_value": 0.5332368083479825,
+    "z_score": 1.3295293402660544,
+    "combined_score": 0.8359943020247481,
+    "overlap_genes": [
+      "ERBB2IP"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP008 A375 24H-sirolimus-10",
+    "rank": 7096,
+    "p_value": 0.544960345995237,
+    "z_score": 1.2858075893148717,
+    "combined_score": 0.7805395277230219,
+    "overlap_genes": [
+      "CDH11"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 HCC515 6H-budesonide-10.0",
+    "rank": 7325,
+    "p_value": 0.5563905655733672,
+    "z_score": 1.2448618225510655,
+    "combined_score": 0.7298435338779613,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 LNCAP 24H-sirolimus-1.11",
+    "rank": 7591,
+    "p_value": 0.5675347772110092,
+    "z_score": 1.2064357952804168,
+    "combined_score": 0.6833894772435521,
+    "overlap_genes": [
+      "FOLH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC017 SKB 24H-resveratrol-10.0",
+    "rank": 7772,
+    "p_value": 0.5784001097117079,
+    "z_score": 1.1703038591901052,
+    "combined_score": 0.6407289792850654,
+    "overlap_genes": [
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 A375 6H-quercetin-10.0",
+    "rank": 7774,
+    "p_value": 0.5784001097117079,
+    "z_score": 1.1703038591901052,
+    "combined_score": 0.6407289792850654,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-dexamethasone acetate-10.0",
+    "rank": 7818,
+    "p_value": 0.5837303754447446,
+    "z_score": 1.1530349191469416,
+    "combined_score": 0.6206972477473673,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC016 MCF7 6H-isotretinoin-10.0",
+    "rank": 7857,
+    "p_value": 0.5837303754447446,
+    "z_score": 1.1530349191469416,
+    "combined_score": 0.6206972477473673,
+    "overlap_genes": [
+      "KLK13"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MDST8 6H-curcumin-48.0",
+    "rank": 7933,
+    "p_value": 0.5889935147166339,
+    "z_score": 1.1362665280905364,
+    "combined_score": 0.6014714444907616,
+    "overlap_genes": [
+      "ERBB2IP"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-sirolimus-10.0",
+    "rank": 7936,
+    "p_value": 0.5889935147166339,
+    "z_score": 1.1362665280905364,
+    "combined_score": 0.6014714444907616,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 BT20 24H-sirolimus-0.12",
+    "rank": 7982,
+    "p_value": 0.5889935147166339,
+    "z_score": 1.1362665280905364,
+    "combined_score": 0.6014714444907616,
+    "overlap_genes": [
+      "CDH11"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 PC3 24H-sirolimus-0.37",
+    "rank": 8285,
+    "p_value": 0.6043885413794098,
+    "z_score": 1.0887560867640549,
+    "combined_score": 0.5482300705108137,
+    "overlap_genes": [
+      "NR1D2"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP007 HEPG2 24H-sirolimus-10",
+    "rank": 8291,
+    "p_value": 0.6043885413794098,
+    "z_score": 1.0887560867640549,
+    "combined_score": 0.5482300705108137,
+    "overlap_genes": [
+      "AKR1B10"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 THP1 6H-curcumin-48.0",
+    "rank": 8297,
+    "p_value": 0.6045210363270557,
+    "z_score": 0.9856100628930817,
+    "combined_score": 0.49607608396389774,
+    "overlap_genes": [
+      "ERG",
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 VCAP 6H-sirolimus-10.0",
+    "rank": 8320,
+    "p_value": 0.6093914903337324,
+    "z_score": 1.0737870436063963,
+    "combined_score": 0.5318406842951269,
+    "overlap_genes": [
+      "GRM4"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HS578T 24H-sirolimus-0.12",
+    "rank": 8378,
+    "p_value": 0.6093914903337324,
+    "z_score": 1.0737870436063963,
+    "combined_score": 0.5318406842951269,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH2073 6H-sirolimus-10.0",
+    "rank": 8429,
+    "p_value": 0.6143314190891438,
+    "z_score": 1.0592225691827286,
+    "combined_score": 0.5160751891053426,
+    "overlap_genes": [
+      "GRM4"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SNGM 6H-curcumin-48.0",
+    "rank": 8434,
+    "p_value": 0.6143314190891438,
+    "z_score": 1.0592225691827286,
+    "combined_score": 0.5160751891053426,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 A375 24H-sirolimus-0.37",
+    "rank": 8477,
+    "p_value": 0.6143314190891438,
+    "z_score": 1.0592225691827286,
+    "combined_score": 0.5160751891053426,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC018 NPC 24H-quercetin-10.0",
+    "rank": 8738,
+    "p_value": 0.628780941785771,
+    "z_score": 1.0177989341335956,
+    "combined_score": 0.47223056043879935,
+    "overlap_genes": [
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 6H-dexamethasone-10.0",
+    "rank": 8789,
+    "p_value": 0.6334765985279468,
+    "z_score": 1.0046991521095108,
+    "combined_score": 0.4586775342189961,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 PC3 24H-sirolimus-0.04",
+    "rank": 8856,
+    "p_value": 0.6334765985279468,
+    "z_score": 1.0046991521095108,
+    "combined_score": 0.4586775342189961,
+    "overlap_genes": [
+      "PRKAR2B"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HEPG2 6H-temsirolimus [ci779]-10.0",
+    "rank": 9143,
+    "p_value": 0.6516749617476477,
+    "z_score": 0.9554950927995336,
+    "combined_score": 0.4091519481782851,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 VCAP 6H-temsirolimus [ci779]-10.0",
+    "rank": 9153,
+    "p_value": 0.6516749617476477,
+    "z_score": 0.9554950927995336,
+    "combined_score": 0.4091519481782851,
+    "overlap_genes": [
+      "CARD8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A549 6H-temsirolimus [ci779]-10.0",
+    "rank": 9198,
+    "p_value": 0.6528542419141216,
+    "z_score": 0.8999540229885058,
+    "combined_score": 0.38374164419348905,
+    "overlap_genes": [
+      "CHRNA9",
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 COV644 6H-temsirolimus [ci779]-10.0",
+    "rank": 9227,
+    "p_value": 0.6560821300958822,
+    "z_score": 0.9439351029616474,
+    "combined_score": 0.39783966667327436,
+    "overlap_genes": [
+      "KLK8"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 TYKNU 6H-curcumin-48.0",
+    "rank": 9672,
+    "p_value": 0.677298637306221,
+    "z_score": 0.8900760593987685,
+    "combined_score": 0.34681189240604926,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HA1E 6H-temsirolimus [ci779]-10.0",
+    "rank": 9742,
+    "p_value": 0.6813828318032505,
+    "z_score": 0.8800304400376024,
+    "combined_score": 0.3376069309432079,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PL21 6H-temsirolimus [ci779]-10.0",
+    "rank": 9752,
+    "p_value": 0.6813828318032505,
+    "z_score": 0.8800304400376024,
+    "combined_score": 0.3376069309432079,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NOMO1 6H-curcumin-48.0",
+    "rank": 9905,
+    "p_value": 0.6893974022788267,
+    "z_score": 0.8606015498445777,
+    "combined_score": 0.3200898968578242,
+    "overlap_genes": [
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC005 A549 24H-BRD-A82238138 (budesonide)-10.0",
+    "rank": 9979,
+    "p_value": 0.6933290631219583,
+    "z_score": 0.8512038801316473,
+    "combined_score": 0.31175389260776326,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 A673 6H-sirolimus-10.0",
+    "rank": 9981,
+    "p_value": 0.6933290631219583,
+    "z_score": 0.8512038801316473,
+    "combined_score": 0.31175389260776326,
+    "overlap_genes": [
+      "PRKAR1B"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 U937 6H-calcitriol-1.0",
+    "rank": 10055,
+    "p_value": 0.6972111510471299,
+    "z_score": 0.8420083108426509,
+    "combined_score": 0.30368458738265475,
+    "overlap_genes": [
+      "GLI2"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 H1299 6H-sirolimus-10.0",
+    "rank": 10316,
+    "p_value": 0.7122561090479999,
+    "z_score": 0.8071220273544996,
+    "combined_score": 0.27387081296759663,
+    "overlap_genes": [
+      "ERBB2IP"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 MDST8 6H-temsirolimus [ci779]-10.0",
+    "rank": 10397,
+    "p_value": 0.7158995168079505,
+    "z_score": 0.7988454345881779,
+    "combined_score": 0.26698649560700655,
+    "overlap_genes": [
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC017 A549 6H-dexamethasone-10.0",
+    "rank": 10419,
+    "p_value": 0.7158995168079505,
+    "z_score": 0.7988454345881779,
+    "combined_score": 0.26698649560700655,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 JHUEM2 6H-curcumin-48.0",
+    "rank": 10595,
+    "p_value": 0.7265563282425472,
+    "z_score": 0.7749990138456077,
+    "combined_score": 0.24756511556340557,
+    "overlap_genes": [
+      "AFF1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 24H-dexamethasone-10.0",
+    "rank": 10650,
+    "p_value": 0.7300193617538409,
+    "z_score": 0.7673619248496211,
+    "combined_score": 0.2414766904986294,
+    "overlap_genes": [
+      "CHRNA3"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCT116 6H-sirolimus-10.0",
+    "rank": 10657,
+    "p_value": 0.7300193617538409,
+    "z_score": 0.7673619248496211,
+    "combined_score": 0.2414766904986294,
+    "overlap_genes": [
+      "GRM4"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 SKM1 6H-sirolimus-10.0",
+    "rank": 10887,
+    "p_value": 0.7434400894294078,
+    "z_score": 0.7382545290535969,
+    "combined_score": 0.2188681759252012,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 CL34 6H-curcumin-48.0",
+    "rank": 11389,
+    "p_value": 0.7741554247950879,
+    "z_score": 0.6742684434675092,
+    "combined_score": 0.1726010016111757,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC004 HCC515 6H-sirolimus-10.0",
+    "rank": 11485,
+    "p_value": 0.7798440230474689,
+    "z_score": 0.6627726382605172,
+    "combined_score": 0.16480593880538572,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 NCIH1836 6H-curcumin-48.0",
+    "rank": 11546,
+    "p_value": 0.7826345726561352,
+    "z_score": 0.6571696407646724,
+    "combined_score": 0.16106530869411584,
+    "overlap_genes": [
+      "ARIH1"
+    ],
+    "adj_p": 0.8959628051606997
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT115 6H-curcumin-48.0",
+    "rank": 11919,
+    "p_value": 0.8062160622888586,
+    "z_score": 0.6106822709163346,
+    "combined_score": 0.13154310162314312,
+    "overlap_genes": [
+      "KLK13"
+    ],
+    "adj_p": 0.8960704916590624
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC016 A549 6H-budesonide-10.0",
+    "rank": 12037,
+    "p_value": 0.8134958470506751,
+    "z_score": 0.5966059426416471,
+    "combined_score": 0.12314809191719306,
+    "overlap_genes": [
+      "PRDM10"
+    ],
+    "adj_p": 0.8961733844714224
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HCC515 24H-curcumin-48.0",
+    "rank": 12115,
+    "p_value": 0.820503197238872,
+    "z_score": 0.5831598977225426,
+    "combined_score": 0.1153708797994771,
+    "overlap_genes": [
+      "IRS4"
+    ],
+    "adj_p": 0.8974002132336044
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 6H-curcumin-48.0",
+    "rank": 12290,
+    "p_value": 0.8337408422911293,
+    "z_score": 0.5579965850882186,
+    "combined_score": 0.10146200644632423,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.8997461727301734
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP008 PC3 24H-sirolimus-10",
+    "rank": 12348,
+    "p_value": 0.8379336114041475,
+    "z_score": 0.5500813646821167,
+    "combined_score": 0.09726340897905882,
+    "overlap_genes": [
+      "CXCL13"
+    ],
+    "adj_p": 0.9003192165260877
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "LJP006 HME1 24H-sirolimus-10",
+    "rank": 12703,
+    "p_value": 0.8678973200830444,
+    "z_score": 0.4939734731958243,
+    "combined_score": 0.06998708351314252,
+    "overlap_genes": [
+      "DEFB1"
+    ],
+    "adj_p": 0.9070497198118938
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 PC3 24H-curcumin-48.0",
+    "rank": 12953,
+    "p_value": 0.895058603465838,
+    "z_score": 0.4430459978268743,
+    "combined_score": 0.04911877486327972,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.9169516264055502
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 VCAP 24H-curcumin-48.0",
+    "rank": 13061,
+    "p_value": 0.9111426159005306,
+    "z_score": 0.41229789835367525,
+    "combined_score": 0.03836672942050098,
+    "overlap_genes": [
+      "CARD8"
+    ],
+    "adj_p": 0.9259982020293436
+  },
+  {
+    "query": "PCD-down_LINCS_L1000_Chem_Pert_up",
+    "term": "CPC006 HT29 24H-curcumin-48.0",
+    "rank": 13203,
+    "p_value": 0.9417805209983708,
+    "z_score": 0.35041814723089626,
+    "combined_score": 0.021019140178660002,
+    "overlap_genes": [
+      "ERG"
+    ],
+    "adj_p": 0.9468438571327706
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "Dexamethasone": {
+    "best_energy": -6.186,
+    "mean_top3": -5.997,
+    "mw": 392
+  },
+  "Calcitriol": {
+    "best_energy": -6.162,
+    "mean_top3": -6.0566666666666675,
+    "mw": 417
+  },
+  "Resveratrol": {
+    "best_energy": -5.907,
+    "mean_top3": -5.8870000000000005,
+    "mw": 228
+  },
+  "Curcumin": {
+    "best_energy": -5.505,
+    "mean_top3": -5.503333333333334,
+    "mw": 368
+  },
+  "Metformin": {
+    "best_energy": -4.473,
+    "mean_top3": -4.390666666666667,
+    "mw": 129
+  },
+  "EPA": {
+    "best_energy": -4.47,
+    "mean_top3": -4.434,
+    "mw": 302
+  },
+  "NAC": {
+    "best_energy": -3.692,
+    "mean_top3": -3.6140000000000003,
+    "mw": 163
+  },
+  "Sirolimus": {
+    "note": "requires local compute",
+    "mw": 914
+  }
+}

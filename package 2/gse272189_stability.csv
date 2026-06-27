@@ -1,0 +1,327 @@
+{
+  "NAC": {
+    "energy": -3.7,
+    "residues": [
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 1.81
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 2.16
+      },
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 2.89
+      },
+      {
+        "resname": "HIS",
+        "resnum": 162,
+        "distance": 3.39
+      },
+      {
+        "resname": "PHE",
+        "resnum": 139,
+        "distance": 3.51
+      },
+      {
+        "resname": "VAL",
+        "resnum": 147,
+        "distance": 3.69
+      },
+      {
+        "resname": "SER",
+        "resnum": 164,
+        "distance": 3.96
+      }
+    ]
+  },
+  "Metformin": {
+    "energy": -4.5,
+    "residues": [
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 1.86
+      },
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 2.15
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 2.8
+      },
+      {
+        "resname": "HIS",
+        "resnum": 162,
+        "distance": 3.09
+      },
+      {
+        "resname": "VAL",
+        "resnum": 147,
+        "distance": 3.18
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.64
+      },
+      {
+        "resname": "SER",
+        "resnum": 164,
+        "distance": 3.97
+      }
+    ]
+  },
+  "Resveratrol": {
+    "energy": -5.9,
+    "residues": [
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 2.65
+      },
+      {
+        "resname": "HIS",
+        "resnum": 162,
+        "distance": 2.82
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 3.24
+      },
+      {
+        "resname": "CYS",
+        "resnum": 165,
+        "distance": 3.4
+      },
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 3.43
+      },
+      {
+        "resname": "ILE",
+        "resnum": 183,
+        "distance": 3.53
+      },
+      {
+        "resname": "PHE",
+        "resnum": 139,
+        "distance": 3.58
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.69
+      }
+    ]
+  },
+  "Calcitriol": {
+    "energy": -6.2,
+    "residues": [
+      {
+        "resname": "GLU",
+        "resnum": 154,
+        "distance": 2.66
+      },
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 3.06
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 3.24
+      },
+      {
+        "resname": "PHE",
+        "resnum": 139,
+        "distance": 3.43
+      },
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 3.48
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.49
+      },
+      {
+        "resname": "ILE",
+        "resnum": 183,
+        "distance": 3.54
+      },
+      {
+        "resname": "CYS",
+        "resnum": 165,
+        "distance": 3.94
+      }
+    ]
+  },
+  "Curcumin": {
+    "energy": -5.5,
+    "residues": [
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 2.2
+      },
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 3.14
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.26
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 3.31
+      },
+      {
+        "resname": "HIS",
+        "resnum": 162,
+        "distance": 3.43
+      },
+      {
+        "resname": "VAL",
+        "resnum": 147,
+        "distance": 3.47
+      },
+      {
+        "resname": "PHE",
+        "resnum": 139,
+        "distance": 3.62
+      }
+    ]
+  },
+  "Dexamethasone": {
+    "energy": -6.2,
+    "residues": [
+      {
+        "resname": "GLN",
+        "resnum": 289,
+        "distance": 2.95
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.05
+      },
+      {
+        "resname": "ASN",
+        "resnum": 290,
+        "distance": 3.32
+      },
+      {
+        "resname": "GLN",
+        "resnum": 185,
+        "distance": 3.42
+      },
+      {
+        "resname": "HIS",
+        "resnum": 162,
+        "distance": 3.44
+      },
+      {
+        "resname": "PRO",
+        "resnum": 370,
+        "distance": 3.45
+      },
+      {
+        "resname": "PRO",
+        "resnum": 188,
+        "distance": 3.46
+      },
+      {
+        "resname": "LYS",
+        "resnum": 159,
+        "distance": 3.49
+      },
+      {
+        "resname": "HIS",
+        "resnum": 373,
+        "distance": 3.64
+      },
+      {
+        "resname": "PRO",
+        "resnum": 156,
+        "distance": 3.76
+      },
+      {
+        "resname": "HIS",
+        "resnum": 186,
+        "distance": 3.97
+      },
+      {
+        "resname": "ASN",
+        "resnum": 158,
+        "distance": 3.98
+      }
+    ]
+  },
+  "EPA": {
+    "energy": -4.5,
+    "residues": [
+      {
+        "resname": "VAL",
+        "resnum": 157,
+        "distance": 2.47
+      },
+      {
+        "resname": "GLU",
+        "resnum": 161,
+        "distance": 2.57
+      },
+      {
+        "resname": "PRO",
+        "resnum": 156,
+        "distance": 3.33
+      },
+      {
+        "resname": "ARG",
+        "resnum": 148,
+        "distance": 3.51
+      },
+      {
+        "resname": "LYS",
+        "resnum": 155,
+        "distance": 3.52
+      },
+      {
+        "resname": "LEU",
+        "resnum": 163,
+        "distance": 3.58
+      },
+      {
+        "resname": "PHE",
+        "resnum": 139,
+        "distance": 3.67
+      },
+      {
+        "resname": "TYR",
+        "resnum": 150,
+        "distance": 3.72
+      },
+      {
+        "resname": "GLU",
+        "resnum": 154,
+        "distance": 3.87
+      }
+    ]
+  }
+}

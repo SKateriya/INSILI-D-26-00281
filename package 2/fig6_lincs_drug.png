@@ -1,0 +1,178 @@
+{
+  "discovery": {
+    "accession": "GSE25186",
+    "n_pcd": 6,
+    "n_control": 9
+  },
+  "external": {
+    "accession": "GSE272189",
+    "n_pcd_pseudobulk": 4,
+    "n_control_pseudobulk": 5,
+    "candidate_pool": "fallback_top200_by_raw_P",
+    "n_candidates": 200,
+    "nested_auc": 1.0,
+    "nested_auc_ci_low": 0.9999999999999999,
+    "nested_auc_ci_high": 1.0,
+    "permutation_p_value": 0.00999000999000999,
+    "permutation_null_mean": 0.320775,
+    "top10_stable_genes": [
+      {
+        "gene": "AC108134.4",
+        "n_folds_selected": 7
+      },
+      {
+        "gene": "UGT1A8",
+        "n_folds_selected": 6
+      },
+      {
+        "gene": "AC008403.2",
+        "n_folds_selected": 6
+      },
+      {
+        "gene": "RASGRF2",
+        "n_folds_selected": 6
+      },
+      {
+        "gene": "TUBB8",
+        "n_folds_selected": 5
+      },
+      {
+        "gene": "AC118757.1",
+        "n_folds_selected": 5
+      },
+      {
+        "gene": "PTPRO",
+        "n_folds_selected": 4
+      },
+      {
+        "gene": "OSTM1-AS1",
+        "n_folds_selected": 4
+      },
+      {
+        "gene": "HYAL4",
+        "n_folds_selected": 4
+      },
+      {
+        "gene": "PTH2R",
+        "n_folds_selected": 4
+      }
+    ]
+  },
+  "cross_cohort": {
+    "auc_GSE25186_trained_GSE272189_tested": 0.30000000000000004,
+    "signature_GSE25186_trained": [
+      "PDLIM3",
+      "IDH2",
+      "FRMPD3",
+      "MPND",
+      "CCDC87",
+      "TIA1",
+      "C3orf35",
+      "CDK5",
+      "NUDCD1",
+      "UBR1"
+    ],
+    "auc_GSE272189_trained_GSE25186_tested": 0.4907407407407407,
+    "signature_GSE272189_trained": [
+      "CCDC6",
+      "HYAL4",
+      "ZNF257",
+      "ZNF682",
+      "UGT1A8",
+      "MAP7D2",
+      "KCNMA1",
+      "MAGEE1",
+      "SNHG10",
+      "SULF1"
+    ]
+  },
+  "biological_convergence": {
+    "horani_glutathione_axis_genes": [
+      "GSTA1",
+      "GSTA2",
+      "NFE2L2",
+      "NRF2",
+      "NQO1",
+      "GPX2",
+      "GCLC",
+      "GCLM",
+      "SOD2",
+      "HMOX1"
+    ],
+    "horani_axis_in_GSE272189_top20_stable": [],
+    "horani_axis_in_GSE272189_DE_table_rows": [
+      {
+        "gene": "GSTA1",
+        "log2FC": 0.46405424427045006,
+        "AveExpr": 6.764208239668523,
+        "t": 1.6463307688079263,
+        "P.Value": 0.1403675768956865,
+        "adj.P.Val": 0.8452527465215344
+      },
+      {
+        "gene": "GPX2",
+        "log2FC": -0.16369016982736984,
+        "AveExpr": 4.978111345059023,
+        "t": -1.5536498502526674,
+        "P.Value": 0.16091493103376095,
+        "adj.P.Val": 0.857486217931372
+      },
+      {
+        "gene": "NQO1",
+        "log2FC": -0.10068891377566569,
+        "AveExpr": 5.561300220807293,
+        "t": -1.0142513353263216,
+        "P.Value": 0.34171182480361273,
+        "adj.P.Val": 0.9201357342530144
+      },
+      {
+        "gene": "GSTA2",
+        "log2FC": 0.470711369715068,
+        "AveExpr": 6.021819053628826,
+        "t": 0.9928557177324752,
+        "P.Value": 0.351385320793626,
+        "adj.P.Val": 0.9236536346908981
+      },
+      {
+        "gene": "SOD2",
+        "log2FC": -0.2224825659227312,
+        "AveExpr": 5.0502948802641,
+        "t": -0.8798817529171641,
+        "P.Value": 0.40592997945021003,
+        "adj.P.Val": 0.9287766383764781
+      },
+      {
+        "gene": "HMOX1",
+        "log2FC": -0.1789322786355072,
+        "AveExpr": 2.383209388565904,
+        "t": -0.7331387205198193,
+        "P.Value": 0.48550607975576265,
+        "adj.P.Val": 0.9374636678773454
+      },
+      {
+        "gene": "GCLC",
+        "log2FC": -0.09376306115474531,
+        "AveExpr": 5.027634935858428,
+        "t": -0.5735604229439291,
+        "P.Value": 0.5828621255294312,
+        "adj.P.Val": 0.9466561956105483
+      },
+      {
+        "gene": "NFE2L2",
+        "log2FC": -0.013450560049116156,
+        "AveExpr": 6.18574538286215,
+        "t": -0.15901518662809966,
+        "P.Value": 0.8778079601301334,
+        "adj.P.Val": 1.0
+      },
+      {
+        "gene": "GCLM",
+        "log2FC": 0.004163949905889197,
+        "AveExpr": 5.264905800071651,
+        "t": 0.05115421053877773,
+        "P.Value": 0.9605236604165809,
+        "adj.P.Val": 1.0
+      }
+    ]
+  }
+}

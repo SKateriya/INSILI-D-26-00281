@@ -1,0 +1,11 @@
+Drug,Class,Therapeutic_Hits,Best_P,Avg_Combined_Score,Lipinski,Mechanism
+Curcumin,Polyphenol,76,0.00871,2.52,Yes,"Anti-inflammatory, NF-kB inhibitor"
+Resveratrol,Polyphenol,18,0.00749,5.18,Yes,"Antioxidant, SIRT1 activator"
+Ibuprofen-Piconol,NSAID,8,0.00434,16.44,Yes,"Anti-inflammatory, topical"
+Dexamethasone,Corticosteroid,31,0.0368,1.81,Yes,"Immunosuppressant, already used in airway"
+Sirolimus,mTOR inhibitor,113,0.0465,2.15,No (MW>500),"Autophagy inducer, cilia biogenesis"
+Tretinoin,Retinoid,22,0.0421,3.45,Yes,"Differentiation, ciliated cell fate"
+Quercetin,Flavonoid,14,0.0471,3.18,Yes,"Antioxidant, anti-inflammatory"
+Calcitriol,Vitamin D,15,0.0864,4.94,No (MW>500),Immune modulation
+NAC,Thiol antioxidant,18,0.372,0.45,Yes,"Mucolytic, GSH restoration"
+Metformin,Biguanide,4,0.814,0.12,Yes,AMPK activator
